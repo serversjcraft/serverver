@@ -30160,3 +30160,310 @@
 [03:35:11] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.13 and blood value 0 for entity iceandfire:seaserpent
 [03:35:28] [Server thread/TRACE] [reccomplex]: Generated structure 'StonePlantMound3' in StructureBoundingBox{x0=5131, y0=65, z0=-5612, x1=5142, y1=69, z1=-5603} (0)
 [03:35:28] [Server thread/TRACE] [reccomplex]: Generated structure 'StonePlantBoulder' in StructureBoundingBox{x0=5134, y0=59, z0=-5666, x1=5144, y1=69, z1=-5656} (0)
+[03:36:09] [Server thread/INFO] [Scaling Health]: Blight Skeleton has died
+[03:36:35] [Server thread/TRACE] [reccomplex]: StonePlantMound4 failed to spawn at [5203, -5617] (incompatible biome edge)
+[03:37:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:37:19] [User Authenticator #3/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player lJuqncl is 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[03:37:21] [Server thread/TRACE] [FML]: Handshake channel activating
+[03:37:21] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[03:37:21] [Server thread/DEBUG] [FML]:   Next: HELLO
+[03:37:21] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[03:37:21] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ModList:70 mods->FMLHandshakeServerState$2:HELLO
+[03:37:21] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 70 mods : wolfarmor@3.8.1+alpha.1,treechop@0.14.6,mowziesmobs@1.5.8,extendedrenderer@v1.0,netherportalfix@5.3.17,trashslot@8.4.10,customnpcitems@1.0.0,vampirism_integrations@vampirism_integrations,zawa@1.12.2-2.1.3,mca@6.1.0,creativecoredummy@1.0.0,configmod@v1.0,jei@4.26.2,custommainmenu@2.0.9.1,radixcore@1.12.x-2.2.1,ivtoolkit@1.3.3-1.12,neat@1.4-17,waystones@4.1.0,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,badmobs@1.1.40,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,iceandfire@1.9.1,tlauncher_custom_cape_skin@1.4,fpsreducer@mc1.12.2-1.20,teamlapen-lib@1.6.2,forge@14.23.5.2860,malisisdoors@1.12.2-7.3.0,konkrete@1.6.1,chococraft@3.1.415.0,infernalmobs@1.7.6,minecraft@1.12.2,stonemask@1.0.0,malisiscore@1.12.2-6.5.1-SNAPSHOT,voicechat@1.12.2-2.5.26,biomesoplenty@7.0.1.2445,getittogetherdrops@1.0.2,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,reccomplex@1.4.8.6,rustic@1.1.7,fairylights@2.1.10,howlingmoon@0.9,spartanshields@1.5.5,xaerominimap@24.6.1,collective@3.0,fastbench@1.7.4,securitycraft@v1.9.11,libraryex@1.2.2,toughasnails@3.1.0.141,FML@8.0.99.99,tombstone@4.7.3,customnpcs@1.12,coroutil@1.12.1-1.2.37,srparasites@1.8.2,cfm@6.5.0,aiimprovements@0.0.1.3,connectedglass@1.1.4,vampirism@1.6.2,xaerominimap_core@1.12.2-1.0,bookworm@1.12.2-2.5.2.1,msic@1.0,codechickenlib@3.2.3.358,scalinghealth@1.3.37,soundfilters@0.12.1_for_1.12,netherex@2.2.5,playerrevive@1.0
+[03:37:21] [Netty Epoll Server IO #0/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist] modCLIENT
+[03:37:21] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: WAITINGCACK
+[03:37:21] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[03:37:21] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: COMPLETE
+[03:37:21] [Netty Epoll Server IO #0/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[03:37:23] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[03:37:23] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: DONE
+[03:37:23] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[03:37:23] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[03:37:23] [Server thread/DEBUG] [vampirism]: [FactionPlayerHandler]Changing to PlayableFaction{playerCapability='net.minecraftforge.common.capabilities.Capability@41dd0511'name='Vampire'} 4
+[03:37:23] [Server thread/INFO] []: [+] lJuqncl
+[03:37:23] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[03:37:23] [Server thread/DEBUG] [vampirism]: [EventHandler]Sending configuration to client (EntityPlayerMP['lJuqncl'/13077, uuid='4d94e397-4f30-3e10-8bfc-a35c7b704ebc', l='world', x=396.10, y=64.17, z=-960.65, cx=24, cd=-61, tl=3910072, v=true, d=false](lJuqncl at 396.0978426447668,64.17319996740818,-960.6500479548248))
+[03:37:23] [Server thread/DEBUG] [voicechat]: [voicechat] Setting default state of lJuqncl: {disabled=false, disconnected=true, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[03:37:23] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: lJuqncl[/127.229.116.146:35111] logged in with entity id 13077 at ([world]396.0978426447668, 64.17319996740818, -960.6500479548248)
+[03:37:35] [Netty Epoll Server IO #0/INFO] [voicechat]: [voicechat] Received secret request of lJuqncl (18)
+[03:37:35] [Netty Epoll Server IO #0/DEBUG] [voicechat]: [voicechat] Sending initial states to lJuqncl
+[03:37:35] [Netty Epoll Server IO #0/DEBUG] [voicechat]: [voicechat] Synchronizing 1 groups with lJuqncl
+[03:37:35] [Netty Epoll Server IO #0/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with lJuqncl
+[03:37:35] [Netty Epoll Server IO #0/INFO] [voicechat]: [voicechat] Sent secret to lJuqncl
+[03:37:37] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[03:37:38] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[03:37:38] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of lJuqncl to connected: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[03:37:38] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player lJuqncl (4d94e397-4f30-3e10-8bfc-a35c7b704ebc) successfully connected to voice chat
+[03:37:38] [Netty Epoll Server IO #0/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[03:37:45] [Server thread/INFO] [Scaling Health]: Blight Zombie has died
+[03:38:10] [Async Chat Thread - 6/INFO] []: [Owner] skenecrackm: entre al grupow
+[03:38:18] [Netty Epoll Server IO #0/DEBUG] [voicechat]: [voicechat] Setting group of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=817df72c-6411-4286-9b3a-f6a17adc751a}
+[03:38:38] [Server thread/TRACE] [reccomplex]: Structure 'StonePlantMound4' canceled generation at [5434, -5901] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@570540be
+[03:39:23] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5215, y0=16, z0=-5971, x1=5215, y1=17, z1=-5971} (0)
+[03:39:23] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5215, y0=16, z0=-5969, x1=5215, y1=17, z1=-5969} (0)
+[03:39:23] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5214, y0=15, z0=-5971, x1=5216, y1=18, z1=-5969} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5208, y0=16, z0=-5974, x1=5210, y1=18, z1=-5972} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5208, y0=16, z0=-5968, x1=5210, y1=18, z1=-5966} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePathBig' in StructureBoundingBox{x0=5205, y0=14, z0=-5974, x1=5213, y1=19, z1=-5966} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePathBig' in StructureBoundingBox{x0=5196, y0=14, z0=-5974, x1=5204, y1=19, z1=-5966} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazeShootingRange' in StructureBoundingBox{x0=5193, y0=14, z0=-5980, x1=5201, y1=19, z1=-5975} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePathBig' in StructureBoundingBox{x0=5181, y0=14, z0=-5971, x1=5189, y1=19, z1=-5963} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5191, y0=16, z0=-5966, x1=5191, y1=17, z1=-5966} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5191, y0=16, z0=-5968, x1=5191, y1=17, z1=-5968} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5190, y0=15, z0=-5968, x1=5192, y1=18, z1=-5966} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5181, y0=16, z0=-5959, x1=5183, y1=18, z1=-5957} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5187, y0=16, z0=-5959, x1=5189, y1=18, z1=-5957} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5184, y0=16, z0=-5956, x1=5186, y1=18, z1=-5954} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePathBig' in StructureBoundingBox{x0=5181, y0=14, z0=-5962, x1=5189, y1=19, z1=-5954} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5203, y0=16, z0=-5981, x1=5203, y1=17, z1=-5981} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5204, y0=16, z0=-5982, x1=5204, y1=17, z1=-5982} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5202, y0=15, z0=-5983, x1=5204, y1=18, z1=-5981} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5199, y0=16, z0=-5956, x1=5201, y1=18, z1=-5954} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5196, y0=16, z0=-5953, x1=5198, y1=18, z1=-5951} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePathBig' in StructureBoundingBox{x0=5196, y0=14, z0=-5956, x1=5204, y1=19, z1=-5948} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazeShootingRange' in StructureBoundingBox{x0=5193, y0=14, z0=-5965, x1=5201, y1=19, z1=-5960} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5194, y0=16, z0=-5971, x1=5194, y1=17, z1=-5971} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5193, y0=16, z0=-5970, x1=5193, y1=17, z1=-5970} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5193, y0=15, z0=-5971, x1=5195, y1=18, z1=-5969} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5200, y0=16, z0=-5983, x1=5200, y1=17, z1=-5983} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5199, y0=16, z0=-5982, x1=5199, y1=17, z1=-5982} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5199, y0=15, z0=-5983, x1=5201, y1=18, z1=-5981} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5194, y0=16, z0=-5966, x1=5194, y1=17, z1=-5966} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5195, y0=16, z0=-5967, x1=5195, y1=17, z1=-5967} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5193, y0=15, z0=-5968, x1=5195, y1=18, z1=-5966} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5186, y0=16, z0=-5973, x1=5186, y1=17, z1=-5973} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5184, y0=16, z0=-5973, x1=5184, y1=17, z1=-5973} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5185, y0=16, z0=-5974, x1=5185, y1=17, z1=-5974} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5184, y0=15, z0=-5974, x1=5186, y1=18, z1=-5972} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5199, y0=16, z0=-5958, x1=5199, y1=17, z1=-5958} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5200, y0=16, z0=-5957, x1=5200, y1=17, z1=-5957} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5199, y0=15, z0=-5959, x1=5201, y1=18, z1=-5957} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5203, y0=16, z0=-5959, x1=5203, y1=17, z1=-5959} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5203, y0=16, z0=-5957, x1=5203, y1=17, z1=-5957} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5202, y0=15, z0=-5959, x1=5204, y1=18, z1=-5957} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5205, y0=15, z0=-5953, x1=5207, y1=18, z1=-5951} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5206, y0=16, z0=-5957, x1=5206, y1=17, z1=-5957} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5206, y0=16, z0=-5959, x1=5206, y1=17, z1=-5959} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5205, y0=15, z0=-5959, x1=5207, y1=18, z1=-5957} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5205, y0=16, z0=-5949, x1=5205, y1=17, z1=-5949} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5207, y0=16, z0=-5949, x1=5207, y1=17, z1=-5949} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5206, y0=16, z0=-5948, x1=5206, y1=17, z1=-5948} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5205, y0=15, z0=-5950, x1=5207, y1=18, z1=-5948} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazeFountain' in StructureBoundingBox{x0=5208, y0=14, z0=-5962, x1=5216, y1=19, z1=-5954} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazeEndChest' in StructureBoundingBox{x0=5205, y0=15, z0=-5956, x1=5207, y1=18, z1=-5954} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5210, y0=16, z0=-5952, x1=5210, y1=17, z1=-5952} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5209, y0=16, z0=-5953, x1=5209, y1=17, z1=-5953} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5208, y0=15, z0=-5953, x1=5210, y1=18, z1=-5951} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5211, y0=16, z0=-5952, x1=5211, y1=17, z1=-5952} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5212, y0=16, z0=-5951, x1=5212, y1=17, z1=-5951} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5211, y0=15, z0=-5953, x1=5213, y1=18, z1=-5951} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazeEndChest' in StructureBoundingBox{x0=5211, y0=15, z0=-5965, x1=5213, y1=18, z1=-5963} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5208, y0=16, z0=-5949, x1=5208, y1=17, z1=-5949} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5209, y0=16, z0=-5948, x1=5209, y1=17, z1=-5948} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5208, y0=15, z0=-5950, x1=5210, y1=18, z1=-5948} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5216, y0=16, z0=-5952, x1=5216, y1=17, z1=-5952} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5215, y0=16, z0=-5953, x1=5215, y1=17, z1=-5953} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5214, y0=15, z0=-5953, x1=5216, y1=18, z1=-5951} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5212, y0=16, z0=-5950, x1=5212, y1=17, z1=-5950} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5212, y0=16, z0=-5948, x1=5212, y1=17, z1=-5948} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5211, y0=15, z0=-5950, x1=5213, y1=18, z1=-5948} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5215, y0=16, z0=-5948, x1=5215, y1=17, z1=-5948} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5216, y0=16, z0=-5949, x1=5216, y1=17, z1=-5949} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5214, y0=15, z0=-5950, x1=5216, y1=18, z1=-5948} (0)
+[03:39:24] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMaze' in StructureBoundingBox{x0=5181, y0=14, z0=-5983, x1=5216, y1=19, z1=-5948} (0)
+[03:40:11] [Server thread/TRACE] [reccomplex]: Generated structure 'ShrineSmallAir' in StructureBoundingBox{x0=5458, y0=221, z0=-6052, x1=5466, y1=229, z1=-6044} (0)
+[03:40:12] [Server thread/TRACE] [reccomplex]: Generated structure 'UndergroundCultChamber' in StructureBoundingBox{x0=5278, y0=10, z0=-6065, x1=5320, y1=30, z1=-6033} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazeFountain' in StructureBoundingBox{x0=5544, y0=13, z0=-5986, x1=5552, y1=18, z1=-5978} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5578, y0=15, z0=-5978, x1=5578, y1=16, z1=-5978} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5577, y0=14, z0=-5980, x1=5579, y1=17, z1=-5978} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazeStudy' in StructureBoundingBox{x0=5562, y0=14, z0=-5980, x1=5570, y1=17, z1=-5966} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazeFountain' in StructureBoundingBox{x0=5559, y0=13, z0=-6001, x1=5567, y1=18, z1=-5993} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5562, y0=15, z0=-5991, x1=5562, y1=16, z1=-5991} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5564, y0=15, z0=-5991, x1=5564, y1=16, z1=-5991} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5562, y0=14, z0=-5992, x1=5564, y1=17, z1=-5990} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5553, y0=15, z0=-5995, x1=5555, y1=17, z1=-5993} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5553, y0=15, z0=-6001, x1=5555, y1=17, z1=-5999} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePathBig' in StructureBoundingBox{x0=5550, y0=13, z0=-6001, x1=5558, y1=18, z1=-5993} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazeShootingRange' in StructureBoundingBox{x0=5562, y0=13, z0=-5989, x1=5570, y1=18, z1=-5984} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazeSpiderRoom' in StructureBoundingBox{x0=5574, y0=14, z0=-5986, x1=5579, y1=17, z1=-5981} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5556, y0=15, z0=-5980, x1=5558, y1=17, z1=-5978} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePathBig' in StructureBoundingBox{x0=5553, y0=13, z0=-5986, x1=5561, y1=18, z1=-5978} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5569, y0=15, z0=-5974, x1=5569, y1=16, z1=-5974} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5569, y0=15, z0=-5972, x1=5569, y1=16, z1=-5972} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5568, y0=14, z0=-5974, x1=5570, y1=17, z1=-5972} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5563, y0=15, z0=-5981, x1=5563, y1=16, z1=-5981} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5562, y0=14, z0=-5983, x1=5564, y1=17, z1=-5981} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5566, y0=15, z0=-5981, x1=5566, y1=16, z1=-5981} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5566, y0=15, z0=-5983, x1=5566, y1=16, z1=-5983} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5565, y0=14, z0=-5983, x1=5567, y1=17, z1=-5981} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5547, y0=14, z0=-5998, x1=5549, y1=17, z1=-5996} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5549, y0=15, z0=-6000, x1=5549, y1=16, z1=-6000} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5548, y0=15, z0=-6001, x1=5548, y1=16, z1=-6001} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5547, y0=14, z0=-6001, x1=5549, y1=17, z1=-5999} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5556, y0=14, z0=-5989, x1=5558, y1=17, z1=-5987} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazeEndChest' in StructureBoundingBox{x0=5544, y0=14, z0=-6001, x1=5546, y1=17, z1=-5999} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazeEndChest' in StructureBoundingBox{x0=5544, y0=14, z0=-5998, x1=5546, y1=17, z1=-5996} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5557, y0=15, z0=-5992, x1=5557, y1=16, z1=-5992} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5556, y0=15, z0=-5991, x1=5556, y1=16, z1=-5991} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5556, y0=14, z0=-5992, x1=5558, y1=17, z1=-5990} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5569, y0=15, z0=-5983, x1=5569, y1=16, z1=-5983} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5569, y0=15, z0=-5981, x1=5569, y1=16, z1=-5981} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5568, y0=14, z0=-5983, x1=5570, y1=17, z1=-5981} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5561, y0=15, z0=-5991, x1=5561, y1=16, z1=-5991} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5560, y0=15, z0=-5992, x1=5560, y1=16, z1=-5992} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5559, y0=14, z0=-5992, x1=5561, y1=17, z1=-5990} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5547, y0=14, z0=-5977, x1=5549, y1=17, z1=-5975} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5549, y0=15, z0=-5994, x1=5549, y1=16, z1=-5994} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5547, y0=14, z0=-5995, x1=5549, y1=17, z1=-5993} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5547, y0=15, z0=-5991, x1=5547, y1=16, z1=-5991} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5548, y0=15, z0=-5990, x1=5548, y1=16, z1=-5990} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5547, y0=14, z0=-5992, x1=5549, y1=17, z1=-5990} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5573, y0=15, z0=-5982, x1=5573, y1=16, z1=-5982} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5571, y0=14, z0=-5983, x1=5573, y1=17, z1=-5981} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5571, y0=14, z0=-5974, x1=5573, y1=17, z1=-5972} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5573, y0=15, z0=-5976, x1=5573, y1=16, z1=-5976} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5571, y0=15, z0=-5976, x1=5571, y1=16, z1=-5976} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5571, y0=14, z0=-5977, x1=5573, y1=17, z1=-5975} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5575, y0=15, z0=-5980, x1=5575, y1=16, z1=-5980} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5575, y0=15, z0=-5978, x1=5575, y1=16, z1=-5978} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5574, y0=14, z0=-5980, x1=5576, y1=17, z1=-5978} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5571, y0=15, z0=-5970, x1=5571, y1=16, z1=-5970} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5571, y0=14, z0=-5971, x1=5573, y1=17, z1=-5969} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5554, y0=15, z0=-5987, x1=5554, y1=16, z1=-5987} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5554, y0=15, z0=-5989, x1=5554, y1=16, z1=-5989} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5553, y0=14, z0=-5989, x1=5555, y1=17, z1=-5987} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5551, y0=15, z0=-5987, x1=5551, y1=16, z1=-5987} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5551, y0=15, z0=-5989, x1=5551, y1=16, z1=-5989} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5550, y0=14, z0=-5989, x1=5552, y1=17, z1=-5987} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5545, y0=15, z0=-5995, x1=5545, y1=16, z1=-5995} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5545, y0=15, z0=-5993, x1=5545, y1=16, z1=-5993} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5544, y0=15, z0=-5994, x1=5544, y1=16, z1=-5994} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5544, y0=14, z0=-5995, x1=5546, y1=17, z1=-5993} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5571, y0=15, z0=-5979, x1=5571, y1=16, z1=-5979} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5571, y0=14, z0=-5980, x1=5573, y1=17, z1=-5978} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5560, y0=15, z0=-5987, x1=5560, y1=16, z1=-5987} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5561, y0=15, z0=-5988, x1=5561, y1=16, z1=-5988} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5559, y0=14, z0=-5989, x1=5561, y1=17, z1=-5987} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazeEndChest' in StructureBoundingBox{x0=5550, y0=14, z0=-5992, x1=5552, y1=17, z1=-5990} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazeEndChest' in StructureBoundingBox{x0=5544, y0=14, z0=-5977, x1=5546, y1=17, z1=-5975} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5574, y0=14, z0=-5974, x1=5576, y1=17, z1=-5972} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5548, y0=15, z0=-5987, x1=5548, y1=16, z1=-5987} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5548, y0=15, z0=-5989, x1=5548, y1=16, z1=-5989} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5547, y0=14, z0=-5989, x1=5549, y1=17, z1=-5987} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5575, y0=15, z0=-5977, x1=5575, y1=16, z1=-5977} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5574, y0=15, z0=-5976, x1=5574, y1=16, z1=-5976} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5574, y0=14, z0=-5977, x1=5576, y1=17, z1=-5975} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5544, y0=15, z0=-5988, x1=5544, y1=16, z1=-5988} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5545, y0=15, z0=-5987, x1=5545, y1=16, z1=-5987} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5544, y0=14, z0=-5989, x1=5546, y1=17, z1=-5987} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5546, y0=15, z0=-5991, x1=5546, y1=16, z1=-5991} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5544, y0=15, z0=-5991, x1=5544, y1=16, z1=-5991} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5545, y0=15, z0=-5992, x1=5545, y1=16, z1=-5992} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5544, y0=14, z0=-5992, x1=5546, y1=17, z1=-5990} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5578, y0=15, z0=-5972, x1=5578, y1=16, z1=-5972} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5579, y0=15, z0=-5973, x1=5579, y1=16, z1=-5973} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5577, y0=14, z0=-5974, x1=5579, y1=17, z1=-5972} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5579, y0=15, z0=-5976, x1=5579, y1=16, z1=-5976} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5578, y0=15, z0=-5977, x1=5578, y1=16, z1=-5977} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5577, y0=14, z0=-5977, x1=5579, y1=17, z1=-5975} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5547, y0=15, z0=-5973, x1=5547, y1=16, z1=-5973} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5549, y0=15, z0=-5973, x1=5549, y1=16, z1=-5973} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5547, y0=14, z0=-5974, x1=5549, y1=17, z1=-5972} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5548, y0=15, z0=-5969, x1=5548, y1=16, z1=-5969} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5549, y0=15, z0=-5970, x1=5549, y1=16, z1=-5970} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5547, y0=14, z0=-5971, x1=5549, y1=17, z1=-5969} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5571, y0=15, z0=-5967, x1=5571, y1=16, z1=-5967} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5572, y0=15, z0=-5966, x1=5572, y1=16, z1=-5966} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5571, y0=14, z0=-5968, x1=5573, y1=17, z1=-5966} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5575, y0=15, z0=-5969, x1=5575, y1=16, z1=-5969} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5574, y0=14, z0=-5971, x1=5576, y1=17, z1=-5969} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5545, y0=15, z0=-5971, x1=5545, y1=16, z1=-5971} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5544, y0=15, z0=-5970, x1=5544, y1=16, z1=-5970} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5544, y0=14, z0=-5971, x1=5546, y1=17, z1=-5969} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5544, y0=15, z0=-5967, x1=5544, y1=16, z1=-5967} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5545, y0=15, z0=-5966, x1=5545, y1=16, z1=-5966} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5544, y0=14, z0=-5968, x1=5546, y1=17, z1=-5966} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5579, y0=15, z0=-5970, x1=5579, y1=16, z1=-5970} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5578, y0=15, z0=-5971, x1=5578, y1=16, z1=-5971} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5577, y0=14, z0=-5971, x1=5579, y1=17, z1=-5969} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5577, y0=15, z0=-5967, x1=5577, y1=16, z1=-5967} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5579, y0=15, z0=-5967, x1=5579, y1=16, z1=-5967} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5578, y0=15, z0=-5966, x1=5578, y1=16, z1=-5966} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5577, y0=14, z0=-5968, x1=5579, y1=17, z1=-5966} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5552, y0=15, z0=-5976, x1=5552, y1=16, z1=-5976} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5551, y0=15, z0=-5977, x1=5551, y1=16, z1=-5977} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5550, y0=14, z0=-5977, x1=5552, y1=17, z1=-5975} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazeShootingRange' in StructureBoundingBox{x0=5550, y0=13, z0=-5974, x1=5558, y1=18, z1=-5969} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5548, y0=15, z0=-5968, x1=5548, y1=16, z1=-5968} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5548, y0=15, z0=-5966, x1=5548, y1=16, z1=-5966} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5547, y0=14, z0=-5968, x1=5549, y1=17, z1=-5966} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5551, y0=15, z0=-5966, x1=5551, y1=16, z1=-5966} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5552, y0=15, z0=-5967, x1=5552, y1=16, z1=-5967} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5550, y0=14, z0=-5968, x1=5552, y1=17, z1=-5966} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5575, y0=15, z0=-5966, x1=5575, y1=16, z1=-5966} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5575, y0=15, z0=-5968, x1=5575, y1=16, z1=-5968} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5576, y0=15, z0=-5967, x1=5576, y1=16, z1=-5967} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5574, y0=14, z0=-5968, x1=5576, y1=17, z1=-5966} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5573, y0=15, z0=-5985, x1=5573, y1=16, z1=-5985} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5571, y0=15, z0=-5985, x1=5571, y1=16, z1=-5985} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=5572, y0=15, z0=-5986, x1=5572, y1=16, z1=-5986} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=5571, y0=14, z0=-5986, x1=5573, y1=17, z1=-5984} (0)
+[03:40:15] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMaze' in StructureBoundingBox{x0=5544, y0=13, z0=-6001, x1=5579, y1=18, z1=-5966} (0)
+[03:41:46] [Server thread/TRACE] [reccomplex]: Generated structure 'StonePlantMound4' in StructureBoundingBox{x0=5660, y0=63, z0=-6083, x1=5667, y1=69, z1=-6076} (0)
+[03:42:10] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig' canceled generation at [5498, -6161] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@570540be
+[03:42:10] [Server thread/TRACE] [reccomplex]: Generated structure 'BirchTree1' in StructureBoundingBox{x0=5504, y0=66, z0=-6165, x1=5509, y1=81, z1=-6159} (0)
+[03:42:10] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig' canceled generation at [5508, -6166] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@570540be
+[03:42:10] [Server thread/TRACE] [reccomplex]: Structure 'QuakingAspen' canceled generation at [5509, -6159] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@570540be
+[03:42:11] [Server thread/TRACE] [reccomplex]: Generated structure 'QuakingAspen' in StructureBoundingBox{x0=5502, y0=66, z0=-6158, x1=5508, y1=86, z1=-6152} (0)
+[03:42:11] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig' canceled generation at [5497, -6160] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@570540be
+[03:42:11] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig' canceled generation at [5504, -6167] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@570540be
+[03:42:11] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig' canceled generation at [5496, -6155] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@570540be
+[03:42:11] [Server thread/TRACE] [reccomplex]: Structure 'QuakingAspen' canceled generation at [5500, -6153] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@570540be
+[03:42:11] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree' canceled generation at [5501, -6154] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@570540be
+[03:42:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: skenecrackm is bleeding...
+[03:42:18] [Server thread/INFO] [tombstone]: The death event of the player skenecrackm was cancelled by another mod
+[03:42:18] [Server thread/INFO] [tombstone]: skenecrackm has successfully been saved
+[03:42:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set score of muertes for player skenecrackm to 11
+[03:42:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Title command successfully executed
+[03:42:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Title command successfully executed
+[03:42:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Title command successfully executed
+[03:42:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Title command successfully executed
+[03:42:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Title command successfully executed
+[03:42:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Title command successfully executed
+[03:42:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: skenecrackm drowned
+[03:42:25] [Server thread/INFO] [tombstone]: The last known grave of skenecrackm is at location [name:Last Grave, x:5536, y:63, z:-6012] in the dimension 0
+[03:42:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:42:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: skenecrackm has made the advancement [The Most Useful Key]
+[03:42:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: skenecrackm has reached the goal [A Fast Comeback]
+[03:43:40] [Server thread/TRACE] [reccomplex]: Generated structure 'UndergroundCultChamber' in StructureBoundingBox{x0=5754, y0=8, z0=-6066, x1=5786, y1=28, z1=-6024} (0)
+[03:43:57] [Server thread/TRACE] [reccomplex]: Structure 'StoneMaze' canceled generation at [5787, -6010] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@7ef46f9f
+[03:43:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: skenecrackm is bleeding...
+[03:43:57] [Server thread/INFO] [tombstone]: The death event of the player skenecrackm was cancelled by another mod
+[03:43:57] [Server thread/INFO] [tombstone]: skenecrackm has successfully been saved
+[03:44:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set score of muertes for player skenecrackm to 12
+[03:44:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Title command successfully executed
+[03:44:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Title command successfully executed
+[03:44:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Title command successfully executed
+[03:44:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Title command successfully executed
+[03:44:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Title command successfully executed
+[03:44:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Title command successfully executed
+[03:44:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: skenecrackm was slain by Sea Serpent
+[03:44:02] [Server thread/INFO] [tombstone]: The last known grave of skenecrackm is at location [name:Last Grave, x:5632, y:63, z:-6083] in the dimension 0
+[03:44:15] [Server thread/TRACE] [reccomplex]: Structure 'OakTree' canceled generation at [297, -971] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@570540be
+[03:44:37] [Server thread/INFO] [Scaling Health]: Blight Rupter has died
+[03:45:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: skenecrackm is bleeding...
+[03:45:18] [Server thread/INFO] [tombstone]: The death event of the player skenecrackm was cancelled by another mod
+[03:45:18] [Server thread/INFO] [tombstone]: skenecrackm has successfully been saved
+[03:45:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set score of muertes for player skenecrackm to 13
+[03:45:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Title command successfully executed
+[03:45:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Title command successfully executed
+[03:45:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Title command successfully executed
+[03:45:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Title command successfully executed
+[03:45:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Title command successfully executed
+[03:45:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Title command successfully executed
+[03:45:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: skenecrackm was slain by Sea Serpent
+[03:45:20] [Server thread/INFO] [tombstone]: The last known grave of skenecrackm is at location [name:Last Grave, x:5639, y:64, z:-6085] in the dimension 0
+[03:45:24] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree1' canceled generation at [300, -968] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@570540be
+[03:46:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Entity '5639' cannot be found
+[03:47:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Teleported skenecrackm to 5639.5, 64.0, -6084.5
+[03:47:24] [Server thread/TRACE] [reccomplex]: Structure 'FirTree' canceled generation at [433, -1093] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@570540be
