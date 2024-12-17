@@ -516,6 +516,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2024-12-17 03:42:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2024-12-05 04:55:32 +0000"
@@ -2389,6 +2395,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-03 22:40:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-17 03:42:47 +0000"
     },
     "done": true
   },
