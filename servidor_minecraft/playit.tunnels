@@ -35,8 +35,8 @@
       "name": "unnamed",
       "origin": {
         "data": {
-          "agent_id": "c2ca77f4-8cde-4f36-be78-c49f5ec0d5ec",
-          "agent_name": "salvajimierda",
+          "agent_id": "445e6975-e85a-46a3-9e27-1eb7f3913af3",
+          "agent_name": "server",
           "local_ip": "127.0.0.1",
           "local_port": 2498
         },
@@ -82,8 +82,8 @@
       "name": "unnamed",
       "origin": {
         "data": {
-          "agent_id": "c2ca77f4-8cde-4f36-be78-c49f5ec0d5ec",
-          "agent_name": "salvajimierda",
+          "agent_id": "445e6975-e85a-46a3-9e27-1eb7f3913af3",
+          "agent_name": "server",
           "local_ip": "127.0.0.1",
           "local_port": 25565
         },
