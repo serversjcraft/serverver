@@ -30114,3 +30114,60 @@
 [21:14:23] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
 [21:14:26] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
 [21:14:38] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[21:15:06] [Server thread/INFO] [Scaling Health]: Blight Zombie Villager was killed by skenecrackm
+[21:15:06] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie Villager is 0.01
+[21:15:07] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Witch is 0.01
+[21:15:32] [User Authenticator #2/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player lJuqncl is 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[21:15:32] [Server thread/TRACE] [FML]: Handshake channel activating
+[21:15:32] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[21:15:32] [Server thread/DEBUG] [FML]:   Next: HELLO
+[21:15:32] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[21:15:32] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ModList:70 mods->FMLHandshakeServerState$2:HELLO
+[21:15:32] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 70 mods : wolfarmor@3.8.1+alpha.1,treechop@0.14.6,mowziesmobs@1.5.8,extendedrenderer@v1.0,netherportalfix@5.3.17,trashslot@8.4.10,customnpcitems@1.0.0,vampirism_integrations@vampirism_integrations,zawa@1.12.2-2.1.3,mca@6.1.0,creativecoredummy@1.0.0,configmod@v1.0,jei@4.26.2,custommainmenu@2.0.9.1,radixcore@1.12.x-2.2.1,ivtoolkit@1.3.3-1.12,neat@1.4-17,waystones@4.1.0,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,badmobs@1.1.40,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,iceandfire@1.9.1,tlauncher_custom_cape_skin@1.4,fpsreducer@mc1.12.2-1.20,teamlapen-lib@1.6.2,forge@14.23.5.2860,malisisdoors@1.12.2-7.3.0,konkrete@1.6.1,chococraft@3.1.415.0,infernalmobs@1.7.6,minecraft@1.12.2,stonemask@1.0.0,malisiscore@1.12.2-6.5.1-SNAPSHOT,voicechat@1.12.2-2.5.26,biomesoplenty@7.0.1.2445,getittogetherdrops@1.0.2,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,reccomplex@1.4.8.6,rustic@1.1.7,fairylights@2.1.10,howlingmoon@0.9,spartanshields@1.5.5,xaerominimap@24.6.1,collective@3.0,fastbench@1.7.4,securitycraft@v1.9.11,libraryex@1.2.2,toughasnails@3.1.0.141,FML@8.0.99.99,tombstone@4.7.3,customnpcs@1.12,coroutil@1.12.1-1.2.37,srparasites@1.8.2,cfm@6.5.0,aiimprovements@0.0.1.3,connectedglass@1.1.4,vampirism@1.6.2,xaerominimap_core@1.12.2-1.0,bookworm@1.12.2-2.5.2.1,msic@1.0,codechickenlib@3.2.3.358,scalinghealth@1.3.37,soundfilters@0.12.1_for_1.12,netherex@2.2.5,playerrevive@1.0
+[21:15:32] [Netty Epoll Server IO #2/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist] modCLIENT
+[21:15:32] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: WAITINGCACK
+[21:15:32] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[21:15:32] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: COMPLETE
+[21:15:32] [Netty Epoll Server IO #2/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[21:15:34] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[21:15:34] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: DONE
+[21:15:34] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[21:15:34] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:15:34] [Server thread/DEBUG] [vampirism]: [FactionPlayerHandler]Changing to PlayableFaction{playerCapability='net.minecraftforge.common.capabilities.Capability@af867b5'name='Vampire'} 4
+[21:15:34] [Server thread/INFO] []: [+] lJuqncl
+[21:15:34] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[21:15:34] [Server thread/DEBUG] [vampirism]: [EventHandler]Sending configuration to client (EntityPlayerMP['lJuqncl'/11496, uuid='4d94e397-4f30-3e10-8bfc-a35c7b704ebc', l='world', x=392.08, y=63.00, z=-960.27, cx=24, cd=-61, tl=4119510, v=true, d=false](lJuqncl at 392.0800421221411,63.0,-960.2695823549403))
+[21:15:34] [Server thread/DEBUG] [voicechat]: [voicechat] Setting default state of lJuqncl: {disabled=false, disconnected=true, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[21:15:34] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: lJuqncl[/127.229.116.146:32831] logged in with entity id 11496 at ([world]392.0800421221411, 63.0, -960.2695823549403)
+[21:15:46] [Netty Epoll Server IO #2/INFO] [voicechat]: [voicechat] Received secret request of lJuqncl (18)
+[21:15:46] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Sending initial states to lJuqncl
+[21:15:46] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Synchronizing 1 groups with lJuqncl
+[21:15:46] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with lJuqncl
+[21:15:46] [Netty Epoll Server IO #2/INFO] [voicechat]: [voicechat] Sent secret to lJuqncl
+[21:15:52] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[21:15:53] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[21:15:53] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of lJuqncl to connected: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[21:15:53] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player lJuqncl (4d94e397-4f30-3e10-8bfc-a35c7b704ebc) successfully connected to voice chat
+[21:15:53] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[21:16:00] [Async Chat Thread - 6/INFO] []: [] lJuqncl: wenas
+[21:16:04] [Async Chat Thread - 6/INFO] []: [Owner] skenecrackm: wenas
+[21:16:08] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree1' canceled generation at [299, -970] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@144418cf
+[21:16:22] [Async Chat Thread - 6/INFO] []: [Owner] skenecrackm: oe sigo teletransportandome al techo XD
+[21:16:26] [Async Chat Thread - 6/INFO] []: [] lJuqncl: se me olvido el sol jsadjadja
+[21:16:27] [Async Chat Thread - 6/INFO] []: [Owner] skenecrackm: entre al grupo
+[21:16:30] [Async Chat Thread - 6/INFO] []: [Owner] skenecrackm: XD
+[21:16:31] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Setting group of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=f07c30ac-ab98-4689-b600-6fbbe9eb2f0c}
+[21:16:39] [Server thread/WARN] [vampirism]: [VampirePlayer]Entity sent by client is not in reach 14123
+[21:16:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:21:00] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Mutant Enderman is 0.01
+[21:21:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:22:35] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[21:22:38] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[21:22:41] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie Villager is 0.01
+[21:22:46] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[21:22:51] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[21:22:56] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[21:23:08] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[21:23:15] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[21:23:47] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[21:24:44] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
