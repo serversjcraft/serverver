@@ -30189,3 +30189,62 @@
 [21:32:43] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.05 and blood value 0 for entity zawa:meerkat
 [21:34:45] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
 [21:34:57] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[21:36:00] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Hunter is 0.01
+[21:36:01] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[21:36:08] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Hunter is 0.01
+[21:36:17] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Hunter is 0.01
+[21:36:23] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[21:36:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:38:20] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[21:39:27] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.13 and blood value 0 for entity zawa:gilamonster
+[21:39:53] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.25 and blood value 0 for entity iceandfire:firedragon
+[21:39:53] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 16.8 and blood value 0 for entity zawa:reticulatedgiraffe
+[21:39:53] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.13 and blood value 0 for entity zawa:echidna
+[21:39:53] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.22 and blood value 0 for entity zawa:macaw
+[21:40:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set skenecrackm's game mode to Creative Mode
+[21:41:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:41:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Entity '10000' cannot be found
+[21:42:01] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Infected Human is 0.01
+[21:42:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Teleported skenecrackm to 10000.5, 80.0, 10000.5
+[21:42:31] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 15.64 and blood value 0 for entity iceandfire:myrmex_queen
+[21:42:31] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 3.3 and blood value 0 for entity iceandfire:myrmex_sentinel
+[21:43:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Teleported skenecrackm to lJuqncl
+[21:43:11] [Server thread/INFO] [Scaling Health]: Blight Zombie was killed by lJuqncl
+[21:43:11] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[21:44:04] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.08 and blood value 0 for entity mutantbeasts:creeper_minion
+[21:44:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set skenecrackm's game mode to Creative Mode
+[21:44:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set skenecrackm's game mode to Survival Mode
+[21:45:20] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper Minion is 0.001
+[21:45:23] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.util.ConcurrentModificationException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:840) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:778) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:624) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.util.ConcurrentModificationException
+	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1469) ~[?:1.8.0_432]
+	at java.util.HashMap$KeyIterator.next(HashMap.java:1493) ~[?:1.8.0_432]
+	at org.bukkit.permissions.PermissibleBase.clearPermissions(PermissibleBase.java:174) ~[PermissibleBase.class:?]
+	at nl.svenar.PowerRanks.Data.PowerPermissibleBase.clearPermissions(PowerPermissibleBase.java:175) ~[?:?]
+	at org.bukkit.permissions.PermissibleBase.recalculatePermissions(PermissibleBase.java:155) ~[PermissibleBase.class:?]
+	at nl.svenar.PowerRanks.Data.PowerPermissibleBase.recalculatePermissions(PowerPermissibleBase.java:88) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.entity.CraftHumanEntity.recalculatePermissions(CraftHumanEntity.java:176) ~[CraftHumanEntity.class:?]
+	at nl.svenar.PowerRanks.PowerRanks.getEffectivePlayerPermissions(PowerRanks.java:941) ~[?:?]
+	at nl.svenar.PowerRanks.Data.PowerPermissibleBase.hasPermission(PowerPermissibleBase.java:40) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.entity.CraftHumanEntity.hasPermission(CraftHumanEntity.java:148) ~[CraftHumanEntity.class:?]
+	at com.mohistmc.forge.BukkitPermissionsHandler.hasPermission(BukkitPermissionsHandler.java:43) ~[BukkitPermissionsHandler.class:?]
+	at net.minecraftforge.server.permission.PermissionAPI.hasPermission(PermissionAPI.java:82) ~[PermissionAPI.class:?]
+	at net.minecraftforge.server.permission.PermissionAPI.hasPermission(PermissionAPI.java:93) ~[PermissionAPI.class:?]
+	at de.teamlapen.vampirism.player.vampire.VampirePlayer.biteAttack(VampirePlayer.java:1122) ~[VampirePlayer.class:?]
+	at de.teamlapen.vampirism.player.vampire.VampirePlayer.biteEntity(VampirePlayer.java:231) ~[VampirePlayer.class:?]
+	at de.teamlapen.vampirism.network.InputEventPacket$Handler.handleServerMessage(InputEventPacket.java:107) ~[InputEventPacket$Handler.class:?]
+	at de.teamlapen.vampirism.network.InputEventPacket$Handler.handleServerMessage(InputEventPacket.java:92) ~[InputEventPacket$Handler.class:?]
+	at de.teamlapen.lib.lib.network.AbstractMessageHandler.lambda$onMessage$1(AbstractMessageHandler.java:69) ~[AbstractMessageHandler.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
