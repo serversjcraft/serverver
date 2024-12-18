@@ -30171,3 +30171,21 @@
 [21:23:15] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
 [21:23:47] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
 [21:24:44] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[21:25:58] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[21:26:02] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[21:26:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: skenecrackm is bleeding...
+[21:26:16] [Server thread/INFO] [tombstone]: The death event of the player skenecrackm was cancelled by another mod
+[21:26:16] [Server thread/INFO] [tombstone]: skenecrackm has successfully been saved
+[21:26:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:27:48] [Server thread/INFO] [Scaling Health]: Blight Spider was killed by skenecrackm
+[21:27:48] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[21:28:30] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[21:31:02] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[21:31:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:32:26] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[21:32:39] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[21:32:43] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.13 and blood value 0 for entity zawa:brownrat
+[21:32:43] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.13 and blood value 0 for entity zawa:fijibandediguana
+[21:32:43] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.05 and blood value 0 for entity zawa:meerkat
+[21:34:45] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[21:34:57] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
