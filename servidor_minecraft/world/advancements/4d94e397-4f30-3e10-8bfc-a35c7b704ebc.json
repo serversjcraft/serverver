@@ -560,10 +560,12 @@
       "visceral_heap": "2024-12-13 00:04:18 +0000",
       "snowy_forest": "2024-12-04 00:05:51 +0000",
       "temperate_rainforest": "2024-12-04 02:49:17 +0000",
+      "corrupted_sands": "2024-12-18 22:02:41 +0000",
       "kelp_forest": "2024-12-04 02:41:32 +0000",
       "pasture": "2024-12-04 02:52:37 +0000",
       "glacier": "2024-12-11 21:02:03 +0000",
       "meadow": "2024-12-09 22:55:50 +0000",
+      "fungi_forest": "2024-12-18 22:06:22 +0000",
       "prairie": "2024-12-04 02:52:14 +0000",
       "grassland": "2024-12-05 03:38:48 +0000",
       "snowy_coniferous_forest": "2024-12-03 22:51:03 +0000",
@@ -1260,6 +1262,12 @@
   "tombstone:tutorial/root": {
     "criteria": {
       "auto": "2024-12-03 20:30:02 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/create_familiar_receptacle": {
+    "criteria": {
+      "has_familiar_receptacle": "2024-12-18 22:05:12 +0000"
     },
     "done": true
   },
