@@ -30248,3 +30248,103 @@ Caused by: java.util.ConcurrentModificationException
 	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
 	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
 	... 5 more
+[21:45:32] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Mutant Creeper is 0.01
+[21:46:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:48:12] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree1' canceled generation at [297, -968] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@144418cf
+[21:48:32] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree1' canceled generation at [297, -968] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@144418cf
+[21:49:56] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.25 and blood value 0 for entity zawa:greathornedowl
+[21:50:10] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: skenecrackm lost connection: Disconnected
+[21:50:10] [Server thread/DEBUG] [voicechat]: [voicechat] Removing state of skenecrackm
+[21:50:10] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client skenecrackm
+[21:50:10] [Server thread/INFO] []: [-] skenecrackm
+[21:50:10] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 96aa5d1a-35a1-3973-b483-597cb6e73744 does not have a secret
+[21:50:27] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc timed out
+[21:50:27] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player lJuqncl
+[21:50:27] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to lJuqncl
+[21:50:27] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 1 groups with lJuqncl
+[21:50:27] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with lJuqncl
+[21:50:27] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to lJuqncl
+[21:50:27] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of 4d94e397-4f30-3e10-8bfc-a35c7b704ebc to disconnected: {disabled=false, disconnected=true, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=f07c30ac-ab98-4689-b600-6fbbe9eb2f0c}
+[21:50:38] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: lJuqncl lost connection: Timed out
+[21:50:38] [Server thread/DEBUG] [voicechat]: [voicechat] Removing state of lJuqncl
+[21:50:38] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client lJuqncl
+[21:50:38] [Server thread/INFO] []: [-] lJuqncl
+[21:50:38] [Server thread/WARN] [Mohist]: handle Disconnection() called twice
+[21:50:40] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc does not have a secret
+[21:50:40] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc does not have a secret
+[21:50:40] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc does not have a secret
+[21:50:40] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc does not have a secret
+[21:50:40] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc does not have a secret
+[21:50:40] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc does not have a secret
+[21:50:40] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc does not have a secret
+[21:50:40] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc does not have a secret
+[21:50:40] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc does not have a secret
+[21:50:40] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc does not have a secret
+[21:51:25] [User Authenticator #3/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player lJuqncl is 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[21:51:25] [Server thread/TRACE] [FML]: Handshake channel activating
+[21:51:25] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[21:51:25] [Server thread/DEBUG] [FML]:   Next: HELLO
+[21:51:26] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[21:51:26] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ModList:70 mods->FMLHandshakeServerState$2:HELLO
+[21:51:26] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 70 mods : wolfarmor@3.8.1+alpha.1,treechop@0.14.6,mowziesmobs@1.5.8,extendedrenderer@v1.0,netherportalfix@5.3.17,trashslot@8.4.10,customnpcitems@1.0.0,vampirism_integrations@vampirism_integrations,zawa@1.12.2-2.1.3,mca@6.1.0,creativecoredummy@1.0.0,configmod@v1.0,jei@4.26.2,custommainmenu@2.0.9.1,radixcore@1.12.x-2.2.1,ivtoolkit@1.3.3-1.12,neat@1.4-17,waystones@4.1.0,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,badmobs@1.1.40,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,iceandfire@1.9.1,tlauncher_custom_cape_skin@1.4,fpsreducer@mc1.12.2-1.20,teamlapen-lib@1.6.2,forge@14.23.5.2860,malisisdoors@1.12.2-7.3.0,konkrete@1.6.1,chococraft@3.1.415.0,infernalmobs@1.7.6,minecraft@1.12.2,stonemask@1.0.0,malisiscore@1.12.2-6.5.1-SNAPSHOT,voicechat@1.12.2-2.5.26,biomesoplenty@7.0.1.2445,getittogetherdrops@1.0.2,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,reccomplex@1.4.8.6,rustic@1.1.7,fairylights@2.1.10,howlingmoon@0.9,spartanshields@1.5.5,xaerominimap@24.6.1,collective@3.0,fastbench@1.7.4,securitycraft@v1.9.11,libraryex@1.2.2,toughasnails@3.1.0.141,FML@8.0.99.99,tombstone@4.7.3,customnpcs@1.12,coroutil@1.12.1-1.2.37,srparasites@1.8.2,cfm@6.5.0,aiimprovements@0.0.1.3,connectedglass@1.1.4,vampirism@1.6.2,xaerominimap_core@1.12.2-1.0,bookworm@1.12.2-2.5.2.1,msic@1.0,codechickenlib@3.2.3.358,scalinghealth@1.3.37,soundfilters@0.12.1_for_1.12,netherex@2.2.5,playerrevive@1.0
+[21:51:26] [Netty Epoll Server IO #1/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist] modCLIENT
+[21:51:26] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: WAITINGCACK
+[21:51:26] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[21:51:26] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: COMPLETE
+[21:51:26] [Netty Epoll Server IO #1/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[21:51:27] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[21:51:27] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: DONE
+[21:51:27] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[21:51:27] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:51:27] [Server thread/DEBUG] [vampirism]: [FactionPlayerHandler]Changing to PlayableFaction{playerCapability='net.minecraftforge.common.capabilities.Capability@af867b5'name='Vampire'} 4
+[21:51:27] [Server thread/INFO] []: [+] lJuqncl
+[21:51:27] [Server thread/DEBUG] [vampirism]: [EventHandler]Sending configuration to client (EntityPlayerMP['lJuqncl'/46592, uuid='4d94e397-4f30-3e10-8bfc-a35c7b704ebc', l='DIM-1', x=50.50, y=70.50, z=-155.50, cx=3, cd=-10, tl=4161340, v=true, d=false](lJuqncl at 50.5,70.5,-155.5))
+[21:51:27] [Server thread/DEBUG] [voicechat]: [voicechat] Setting default state of lJuqncl: {disabled=false, disconnected=true, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[21:51:27] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: lJuqncl[/127.229.116.146:33413] logged in with entity id 46592 at ([DIM-1]50.5, 70.5, -155.5)
+[21:51:27] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[21:51:33] [Netty Epoll Server IO #1/INFO] [voicechat]: [voicechat] Received secret request of lJuqncl (18)
+[21:51:33] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Sending initial states to lJuqncl
+[21:51:33] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with lJuqncl
+[21:51:33] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with lJuqncl
+[21:51:33] [Netty Epoll Server IO #1/INFO] [voicechat]: [voicechat] Sent secret to lJuqncl
+[21:51:34] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[21:51:35] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[21:51:35] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of lJuqncl to connected: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[21:51:35] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player lJuqncl (4d94e397-4f30-3e10-8bfc-a35c7b704ebc) successfully connected to voice chat
+[21:51:35] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[21:51:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:52:29] [Server thread/WARN] [vampirism]: [EntityEventHandler]Could not replace zombie target task
+[21:52:53] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Blaze is 0.01
+[21:52:55] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Blaze is 0.01
+[21:53:19] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Blaze is 0.01
+[21:53:21] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Wither Skeleton is 0.01
+[21:53:30] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Wither Skeleton is 0.01
+[21:53:38] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Wither Skeleton is 0.01
+[21:53:41] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie Pigman is 0.01
+[21:53:46] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie Pigman is 0.01
+[21:53:47] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie Pigman is 0.01
+[21:53:50] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[21:53:51] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie Pigman is 0.01
+[21:53:54] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[21:53:56] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[21:54:00] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[21:54:01] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[21:54:30] [Server thread/TRACE] [reccomplex]: Structure 'NetherThorn2' canceled generation at [-371, 68] (-1): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@144418cf
+[21:54:30] [Server thread/TRACE] [reccomplex]: Generated structure 'NetherThorn1' in StructureBoundingBox{x0=-411, y0=20, z0=21, x1=-395, y1=36, z1=40} (-1)
+[21:54:30] [Server thread/TRACE] [reccomplex]: Generated structure 'NetherThorn3' in StructureBoundingBox{x0=-416, y0=54, z0=70, x1=-398, y1=68, z1=96} (-1)
+[21:54:44] [Server thread/TRACE] [reccomplex]: Generated structure 'NetherThorn2' in StructureBoundingBox{x0=-428, y0=20, z0=236, x1=-416, y1=55, z1=249} (-1)
+[21:54:46] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Wither Skeleton is 0.01
+[21:54:48] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Wither Skeleton is 0.01
+[21:54:57] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Wither Skeleton is 0.01
+[21:55:01] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Wither Skeleton is 0.01
+[21:55:02] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Wither Skeleton is 0.01
+[21:55:06] [Server thread/TRACE] [reccomplex]: Generated structure 'NetherThorn4' in StructureBoundingBox{x0=-496, y0=66, z0=86, x1=-474, y1=88, z1=106} (-1)
+[21:55:07] [Server thread/TRACE] [reccomplex]: Structure 'NetherThorn2' canceled generation at [-511, 25] (-1): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@144418cf
+[21:55:11] [Server thread/TRACE] [reccomplex]: Generated structure 'NetherThorn2' in StructureBoundingBox{x0=-539, y0=86, z0=99, x1=-526, y1=121, z1=111} (-1)
+[21:55:11] [Server thread/TRACE] [reccomplex]: Structure 'NetherThorn4' canceled generation at [-536, 122] (-1): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@4a5527b
+[21:55:15] [Server thread/TRACE] [reccomplex]: Generated structure 'NetherThorn3' in StructureBoundingBox{x0=-534, y0=79, z0=-28, x1=-508, y1=93, z1=-10} (-1)
+[21:55:22] [Server thread/TRACE] [reccomplex]: Structure 'NetherThorn5' canceled generation at [-579, 110] (-1): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@144418cf
+[21:55:22] [Server thread/TRACE] [reccomplex]: Generated structure 'NetherThorn1' in StructureBoundingBox{x0=-604, y0=39, z0=203, x1=-585, y1=55, z1=219} (-1)
+[21:55:22] [Server thread/TRACE] [reccomplex]: Structure 'NetherThorn5' canceled generation at [-602, 215] (-1): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@4a5527b
+[21:55:22] [Server thread/TRACE] [reccomplex]: Structure 'NetherThorn4' canceled generation at [-497, 309] (-1): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@144418cf
+[21:55:43] [Server thread/TRACE] [reccomplex]: Generated structure 'NetherThorn2' in StructureBoundingBox{x0=-599, y0=23, z0=335, x1=-587, y1=58, z1=348} (-1)
