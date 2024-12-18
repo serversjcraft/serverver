@@ -429,11 +429,14 @@
       "chaparral": "2024-12-01 01:35:29 +0000",
       "cold_desert": "2024-12-02 02:45:26 +0000",
       "maple_woods": "2024-12-14 05:24:36 +0000",
+      "coral_reef": "2024-12-17 04:08:04 +0000",
       "moor": "2024-12-05 05:00:16 +0000",
       "bog": "2024-12-14 05:48:44 +0000",
       "coniferous_forest": "2024-12-13 01:38:20 +0000",
+      "outback": "2024-12-17 04:08:22 +0000",
       "shield": "2024-12-13 04:06:40 +0000",
       "alps": "2024-12-05 04:53:40 +0000",
+      "wasteland": "2024-12-17 04:08:45 +0000",
       "boreal_forest": "2024-12-03 23:01:12 +0000",
       "redwood_forest": "2024-12-17 03:40:22 +0000",
       "snowy_forest": "2024-12-13 04:05:51 +0000",
@@ -489,6 +492,12 @@
   "minecraft:recipes/decorations/gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-12-03 22:05:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2024-12-17 06:17:24 +0000"
     },
     "done": true
   },
@@ -1136,6 +1145,7 @@
       "ocean": "2024-12-01 01:35:05 +0000",
       "extreme_hills": "2024-12-05 04:45:53 +0000",
       "river": "2024-12-01 00:57:50 +0000",
+      "desert": "2024-12-17 04:08:44 +0000",
       "stone_beach": "2024-12-14 05:34:09 +0000"
     },
     "done": false
@@ -1792,6 +1802,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-17 05:44:43 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/create_voodoo_poppet": {
     "criteria": {
       "has_voodoo_poppet": "2024-12-12 22:37:02 +0000"
@@ -2251,6 +2267,12 @@
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2024-12-12 21:13:54 +0000"
+    },
+    "done": true
+  },
+  "cfm:copy_item": {
+    "criteria": {
+      "printer_copy": "2024-12-17 04:17:05 +0000"
     },
     "done": true
   },

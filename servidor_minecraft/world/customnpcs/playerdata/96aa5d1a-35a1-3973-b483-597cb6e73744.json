@@ -32,6 +32,12 @@
             {
                 "QuestCompleted": 0b,
                 "ExtraData": {
+                    "Killed": [
+                        {
+                            "Value": 1,
+                            "Slot": "vampirism.vampire"
+                        }
+                    ]
                 },
                 "Quest": 1
             }
