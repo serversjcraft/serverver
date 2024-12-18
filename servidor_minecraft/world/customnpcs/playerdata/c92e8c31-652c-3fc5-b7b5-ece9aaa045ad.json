@@ -31,20 +31,12 @@
     ],
     "QuestData": {
         "CompletedQuests": [
+            {
+                "Quest": 1,
+                "Date": 7649495L
+            }
         ],
         "ActiveQuests": [
-            {
-                "QuestCompleted": 0b,
-                "ExtraData": {
-                    "Killed": [
-                        {
-                            "Value": 13,
-                            "Slot": "vampirism.vampire"
-                        }
-                    ]
-                },
-                "Quest": 1
-            }
         ]
     },
     "PlayerCompanionId": 0,
