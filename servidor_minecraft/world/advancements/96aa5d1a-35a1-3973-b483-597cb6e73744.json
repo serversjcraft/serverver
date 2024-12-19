@@ -1463,6 +1463,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/talk_grave_guardian": {
+    "criteria": {
+      "coded_trigger": "2024-12-19 03:57:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-02 17:07:25 +0000"
