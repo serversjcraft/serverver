@@ -30733,3 +30733,7 @@ Caused by: java.util.ConcurrentModificationException
 [17:06:50] [Server thread/INFO] [tombstone]: The death event of the player DuvanD was cancelled by another mod
 [17:06:50] [Server thread/INFO] [tombstone]: DuvanD has successfully been saved
 [17:06:57] [Async Chat Thread - 16/INFO] []: [] DuvanD: ud me robo un zombie
+[17:07:26] [Server thread/INFO] [Scaling Health]: Blight Spider was killed by lJuqncl
+[17:07:26] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[17:07:27] [Thread-3/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[17:07:27] [Thread-3/INFO] [Mohist]: Disabling PowerRanks v1.9.6
