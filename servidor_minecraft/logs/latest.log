@@ -30606,3 +30606,130 @@
 [16:56:11] [Netty Epoll Server IO #0/DEBUG] [voicechat]: [voicechat] Setting group of Steven351: {disabled=false, disconnected=false, uuid=a1cfde2b-caac-37d0-b9e3-46980f547e63, name=Steven351, group=8c426c99-b9be-4b7f-8963-e844d8740d67}
 [16:56:19] [Server thread/INFO] [tombstone]: Steven351 has successfully been saved
 [16:56:21] [Async Chat Thread - 13/INFO] []: [] DuvanD: a
+[16:57:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Steven351 is bleeding...
+[16:57:26] [Server thread/INFO] [tombstone]: The death event of the player Steven351 was cancelled by another mod
+[16:57:26] [Server thread/INFO] [tombstone]: Steven351 has successfully been saved
+[16:57:42] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player a1cfde2b-caac-37d0-b9e3-46980f547e63 timed out
+[16:57:42] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player Steven351
+[16:57:42] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to Steven351
+[16:57:42] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 1 groups with Steven351
+[16:57:42] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with Steven351
+[16:57:42] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to Steven351
+[16:57:42] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of a1cfde2b-caac-37d0-b9e3-46980f547e63 to disconnected: {disabled=false, disconnected=true, uuid=a1cfde2b-caac-37d0-b9e3-46980f547e63, name=Steven351, group=8c426c99-b9be-4b7f-8963-e844d8740d67}
+[16:57:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:49612
+[16:57:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:49612
+[16:57:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:49612
+[16:57:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:49612
+[16:57:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:49612
+[16:57:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:49612
+[16:57:50] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[16:57:51] [Netty Epoll Server IO #0/DEBUG] [voicechat]: [voicechat] Got state of Steven351: {disabled=false, disconnected=true, uuid=a1cfde2b-caac-37d0-b9e3-46980f547e63, name=Steven351, group=8c426c99-b9be-4b7f-8963-e844d8740d67}
+[16:57:54] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player a1cfde2b-caac-37d0-b9e3-46980f547e63
+[16:57:55] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player a1cfde2b-caac-37d0-b9e3-46980f547e63
+[16:57:55] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of Steven351 to connected: {disabled=false, disconnected=false, uuid=a1cfde2b-caac-37d0-b9e3-46980f547e63, name=Steven351, group=8c426c99-b9be-4b7f-8963-e844d8740d67}
+[16:57:55] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player Steven351 (a1cfde2b-caac-37d0-b9e3-46980f547e63) successfully connected to voice chat
+[16:57:59] [Netty Epoll Server IO #0/DEBUG] [voicechat]: [voicechat] Got state of Steven351: {disabled=false, disconnected=false, uuid=a1cfde2b-caac-37d0-b9e3-46980f547e63, name=Steven351, group=8c426c99-b9be-4b7f-8963-e844d8740d67}
+[16:57:59] [Netty Epoll Server IO #0/DEBUG] [voicechat]: [voicechat] Got state of Steven351: {disabled=false, disconnected=false, uuid=a1cfde2b-caac-37d0-b9e3-46980f547e63, name=Steven351, group=8c426c99-b9be-4b7f-8963-e844d8740d67}
+[16:58:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:58:06] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player a1cfde2b-caac-37d0-b9e3-46980f547e63 timed out
+[16:58:06] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player Steven351
+[16:58:06] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to Steven351
+[16:58:06] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 1 groups with Steven351
+[16:58:06] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with Steven351
+[16:58:06] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to Steven351
+[16:58:06] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of a1cfde2b-caac-37d0-b9e3-46980f547e63 to disconnected: {disabled=false, disconnected=true, uuid=a1cfde2b-caac-37d0-b9e3-46980f547e63, name=Steven351, group=8c426c99-b9be-4b7f-8963-e844d8740d67}
+[16:58:08] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player a1cfde2b-caac-37d0-b9e3-46980f547e63
+[16:58:10] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player a1cfde2b-caac-37d0-b9e3-46980f547e63
+[16:58:10] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of Steven351 to connected: {disabled=false, disconnected=false, uuid=a1cfde2b-caac-37d0-b9e3-46980f547e63, name=Steven351, group=8c426c99-b9be-4b7f-8963-e844d8740d67}
+[16:58:10] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player Steven351 (a1cfde2b-caac-37d0-b9e3-46980f547e63) successfully connected to voice chat
+[16:58:10] [Netty Epoll Server IO #0/DEBUG] [voicechat]: [voicechat] Got state of Steven351: {disabled=false, disconnected=false, uuid=a1cfde2b-caac-37d0-b9e3-46980f547e63, name=Steven351, group=8c426c99-b9be-4b7f-8963-e844d8740d67}
+[16:58:20] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player a1cfde2b-caac-37d0-b9e3-46980f547e63 timed out
+[16:58:20] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player Steven351
+[16:58:20] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to Steven351
+[16:58:20] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 1 groups with Steven351
+[16:58:20] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with Steven351
+[16:58:20] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to Steven351
+[16:58:20] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of a1cfde2b-caac-37d0-b9e3-46980f547e63 to disconnected: {disabled=false, disconnected=true, uuid=a1cfde2b-caac-37d0-b9e3-46980f547e63, name=Steven351, group=8c426c99-b9be-4b7f-8963-e844d8740d67}
+[16:58:20] [Netty Epoll Server IO #0/DEBUG] [voicechat]: [voicechat] Got state of Steven351: {disabled=false, disconnected=true, uuid=a1cfde2b-caac-37d0-b9e3-46980f547e63, name=Steven351, group=8c426c99-b9be-4b7f-8963-e844d8740d67}
+[16:58:20] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player a1cfde2b-caac-37d0-b9e3-46980f547e63
+[16:58:21] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player a1cfde2b-caac-37d0-b9e3-46980f547e63
+[16:58:21] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of Steven351 to connected: {disabled=false, disconnected=false, uuid=a1cfde2b-caac-37d0-b9e3-46980f547e63, name=Steven351, group=8c426c99-b9be-4b7f-8963-e844d8740d67}
+[16:58:21] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player Steven351 (a1cfde2b-caac-37d0-b9e3-46980f547e63) successfully connected to voice chat
+[16:58:21] [Netty Epoll Server IO #0/DEBUG] [voicechat]: [voicechat] Got state of Steven351: {disabled=false, disconnected=false, uuid=a1cfde2b-caac-37d0-b9e3-46980f547e63, name=Steven351, group=8c426c99-b9be-4b7f-8963-e844d8740d67}
+[16:58:42] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player a1cfde2b-caac-37d0-b9e3-46980f547e63 timed out
+[16:58:42] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player Steven351
+[16:58:42] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to Steven351
+[16:58:42] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 1 groups with Steven351
+[16:58:42] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with Steven351
+[16:58:42] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to Steven351
+[16:58:42] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of a1cfde2b-caac-37d0-b9e3-46980f547e63 to disconnected: {disabled=false, disconnected=true, uuid=a1cfde2b-caac-37d0-b9e3-46980f547e63, name=Steven351, group=8c426c99-b9be-4b7f-8963-e844d8740d67}
+[16:58:50] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Steven351 lost connection: Timed out
+[16:58:50] [Server thread/DEBUG] [voicechat]: [voicechat] Removing state of Steven351
+[16:58:50] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client Steven351
+[16:58:50] [Server thread/INFO] []: [-] Steven351
+[16:58:50] [Server thread/DEBUG] [vampirism]: [VampirePlayer]Waking up player
+[16:58:50] [Server thread/WARN] [Mohist]: handle Disconnection() called twice
+[16:58:57] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[16:59:59] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Vampire is 0.001
+[17:00:04] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Vampire is 0.001
+[17:01:17] [Async Chat Thread - 14/INFO] []: [] DuvanD: oes talar con una hacha de eficiencia
+[17:01:21] [Async Chat Thread - 14/INFO] []: [] DuvanD: digo toque de seda
+[17:01:25] [Async Chat Thread - 14/INFO] []: [] DuvanD: suelta las hojas dela rbol
+[17:02:07] [Async Chat Thread - 14/INFO] []: [] DuvanD: no
+[17:02:44] [Async Chat Thread - 14/INFO] []: [] DuvanD: no es que no tengo sngre
+[17:02:49] [Async Chat Thread - 14/INFO] []: [Owner] skenecrackm: w
+[17:03:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:03:22] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[17:03:43] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Blue Fish is 0.001
+[17:04:17] [Server thread/INFO] [Scaling Health]: Blight Zombie was killed by lJuqncl
+[17:04:17] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[17:04:22] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a heart container (player lJuqncl)
+[17:04:34] [Async Chat Thread - 15/INFO] []: [] DuvanD: que
+[17:04:35] [Async Chat Thread - 15/INFO] []: [] DuvanD: jaja
+[17:04:39] [Async Chat Thread - 15/INFO] []: [] DuvanD: salioq ue me mori
+[17:04:42] [Async Chat Thread - 15/INFO] []: [] DuvanD: al transformarme en vampiro
+[17:04:45] [Async Chat Thread - 15/INFO] []: [] DuvanD: murcielago
+[17:05:03] [Async Chat Thread - 15/INFO] []: [] DuvanD: dnd esta
+[17:05:28] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.util.ConcurrentModificationException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:840) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:778) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:624) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.util.ConcurrentModificationException
+	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1469) ~[?:1.8.0_432]
+	at java.util.HashMap$KeyIterator.next(HashMap.java:1493) ~[?:1.8.0_432]
+	at org.bukkit.permissions.PermissibleBase.clearPermissions(PermissibleBase.java:174) ~[PermissibleBase.class:?]
+	at nl.svenar.PowerRanks.Data.PowerPermissibleBase.clearPermissions(PowerPermissibleBase.java:175) ~[?:?]
+	at org.bukkit.permissions.PermissibleBase.recalculatePermissions(PermissibleBase.java:155) ~[PermissibleBase.class:?]
+	at nl.svenar.PowerRanks.Data.PowerPermissibleBase.recalculatePermissions(PowerPermissibleBase.java:88) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.entity.CraftHumanEntity.recalculatePermissions(CraftHumanEntity.java:176) ~[CraftHumanEntity.class:?]
+	at nl.svenar.PowerRanks.PowerRanks.getEffectivePlayerPermissions(PowerRanks.java:941) ~[?:?]
+	at nl.svenar.PowerRanks.Data.PowerPermissibleBase.hasPermission(PowerPermissibleBase.java:40) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.entity.CraftHumanEntity.hasPermission(CraftHumanEntity.java:148) ~[CraftHumanEntity.class:?]
+	at com.mohistmc.forge.BukkitPermissionsHandler.hasPermission(BukkitPermissionsHandler.java:43) ~[BukkitPermissionsHandler.class:?]
+	at net.minecraftforge.server.permission.PermissionAPI.hasPermission(PermissionAPI.java:82) ~[PermissionAPI.class:?]
+	at net.minecraftforge.server.permission.PermissionAPI.hasPermission(PermissionAPI.java:93) ~[PermissionAPI.class:?]
+	at de.teamlapen.vampirism.player.vampire.VampirePlayer.biteAttack(VampirePlayer.java:1122) ~[VampirePlayer.class:?]
+	at de.teamlapen.vampirism.player.vampire.VampirePlayer.biteEntity(VampirePlayer.java:231) ~[VampirePlayer.class:?]
+	at de.teamlapen.vampirism.network.InputEventPacket$Handler.handleServerMessage(InputEventPacket.java:107) ~[InputEventPacket$Handler.class:?]
+	at de.teamlapen.vampirism.network.InputEventPacket$Handler.handleServerMessage(InputEventPacket.java:92) ~[InputEventPacket$Handler.class:?]
+	at de.teamlapen.lib.lib.network.AbstractMessageHandler.lambda$onMessage$1(AbstractMessageHandler.java:69) ~[AbstractMessageHandler.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[17:05:33] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.08 and blood value 0 for entity mutantbeasts:creeper_minion
+[17:05:53] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Mutant Creeper is 0.01
+[17:06:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DuvanD is bleeding...
+[17:06:12] [Server thread/INFO] [tombstone]: The death event of the player DuvanD was cancelled by another mod
+[17:06:12] [Server thread/INFO] [tombstone]: DuvanD has successfully been saved
+[17:06:33] [Async Chat Thread - 16/INFO] []: [] DuvanD: xd
+[17:06:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DuvanD is bleeding...
+[17:06:50] [Server thread/INFO] [tombstone]: The death event of the player DuvanD was cancelled by another mod
+[17:06:50] [Server thread/INFO] [tombstone]: DuvanD has successfully been saved
+[17:06:57] [Async Chat Thread - 16/INFO] []: [] DuvanD: ud me robo un zombie
