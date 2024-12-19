@@ -2074,6 +2074,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/stolen_magic": {
+    "criteria": {
+      "coded_trigger": "2024-12-19 03:21:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2024-12-09 19:12:43 +0000"
@@ -2573,6 +2579,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2024-12-19 03:23:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-12-03 22:56:36 +0000"
@@ -2690,6 +2702,12 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2024-12-09 19:12:43 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/magic_siphoner": {
+    "criteria": {
+      "coded_trigger": "2024-12-19 03:26:02 +0000"
     },
     "done": true
   },
