@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-19 00:14:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2024-12-03 21:31:48 +0000"
@@ -497,6 +503,12 @@
     },
     "done": true
   },
+  "stonemask:stone_mask_find": {
+    "criteria": {
+      "stone_mask_find": "2024-12-19 00:18:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar": {
     "criteria": {
       "has_reeds": "2024-12-01 03:25:24 +0000"
@@ -547,8 +559,12 @@
       "highland": "2024-12-12 20:40:42 +0000",
       "chaparral": "2024-12-03 21:42:35 +0000",
       "wetland": "2024-12-11 02:34:14 +0000",
+      "cold_desert": "2024-12-18 23:18:50 +0000",
+      "maple_woods": "2024-12-18 23:05:49 +0000",
       "coral_reef": "2024-12-05 23:44:59 +0000",
       "coniferous_forest": "2024-12-06 00:04:34 +0000",
+      "outback": "2024-12-19 00:14:12 +0000",
+      "shield": "2024-12-18 23:16:06 +0000",
       "alps": "2024-12-14 20:15:26 +0000",
       "wasteland": "2024-12-14 02:45:35 +0000",
       "boreal_forest": "2024-12-04 01:03:34 +0000",
@@ -558,6 +574,7 @@
       "snowy_coniferous_forest": "2024-12-12 00:34:40 +0000",
       "tundra": "2024-12-12 00:11:47 +0000",
       "gravel_beach": "2024-12-05 23:35:27 +0000",
+      "grove": "2024-12-18 23:36:44 +0000",
       "brushland": "2024-12-03 21:32:30 +0000"
     },
     "done": false
@@ -1307,16 +1324,20 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "ice_flats": "2024-12-11 02:42:51 +0000",
+      "taiga_cold_hills": "2024-12-18 23:23:07 +0000",
       "forest": "2024-12-03 21:30:18 +0000",
       "birch_forest": "2024-12-12 02:43:25 +0000",
       "deep_ocean": "2024-12-05 23:35:47 +0000",
       "beaches": "2024-12-01 03:05:43 +0000",
+      "extreme_hills_with_trees": "2024-12-18 23:18:18 +0000",
       "desert_hills": "2024-12-14 02:56:34 +0000",
       "forest_hills": "2024-12-05 23:36:11 +0000",
       "plains": "2024-12-01 02:27:05 +0000",
+      "savanna": "2024-12-19 00:11:30 +0000",
       "taiga": "2024-12-05 23:59:59 +0000",
       "taiga_hills": "2024-12-05 23:59:52 +0000",
       "birch_forest_hills": "2024-12-12 19:56:18 +0000",
+      "taiga_cold": "2024-12-18 23:22:39 +0000",
       "ocean": "2024-12-01 03:05:45 +0000",
       "extreme_hills": "2024-12-09 23:10:03 +0000",
       "roofed_forest": "2024-12-11 02:42:11 +0000",
@@ -2272,6 +2293,12 @@
     },
     "done": true
   },
+  "stonemask:stone_transform": {
+    "criteria": {
+      "stone_transform": "2024-12-19 00:30:41 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_magic": {
     "criteria": {
       "entered_water": "2024-12-01 02:27:05 +0000"
@@ -2681,6 +2708,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2024-12-18 23:21:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-12-03 22:54:25 +0000"
@@ -2840,6 +2873,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2024-12-12 19:58:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-18 23:32:19 +0000"
     },
     "done": true
   },
