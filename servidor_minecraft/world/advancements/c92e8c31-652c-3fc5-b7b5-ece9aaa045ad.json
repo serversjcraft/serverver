@@ -2768,6 +2768,12 @@
     },
     "done": true
   },
+  "cfm:copy_item": {
+    "criteria": {
+      "printer_copy": "2024-12-19 16:30:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2024-12-03 22:12:08 +0000"
