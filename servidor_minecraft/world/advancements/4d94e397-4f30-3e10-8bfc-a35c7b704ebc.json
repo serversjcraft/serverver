@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-19 03:40:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-03 22:32:16 +0000"
@@ -344,6 +350,12 @@
   "minecraft:recipes/misc/iron_ingot_from_block": {
     "criteria": {
       "has_the_recipe": "2024-12-03 21:46:44 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/find_ancient_tablet": {
+    "criteria": {
+      "has_ancient_tablet_of_recall": "2024-12-19 03:41:06 +0000"
     },
     "done": true
   },
@@ -996,6 +1008,12 @@
     },
     "done": false
   },
+  "tombstone:tutorial/master_siphoner": {
+    "criteria": {
+      "coded_trigger": "2024-12-19 03:40:49 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2024-12-03 20:30:03 +0000"
@@ -1370,6 +1388,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/ancient_fishing_rod": {
+    "criteria": {
+      "has_fishing_rod": "2024-12-19 03:41:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2024-12-04 22:59:11 +0000"
@@ -1727,6 +1751,12 @@
   "iceandfire:iceandfire/dragon_egg": {
     "criteria": {
       "red": "2024-12-12 22:10:12 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/mastery_1": {
+    "criteria": {
+      "coded_trigger": "2024-12-19 03:40:49 +0000"
     },
     "done": true
   },
@@ -2434,6 +2464,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2024-12-19 03:40:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-12-03 21:29:49 +0000"
@@ -2534,6 +2570,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2024-12-03 23:23:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2024-12-19 03:41:06 +0000"
     },
     "done": true
   },

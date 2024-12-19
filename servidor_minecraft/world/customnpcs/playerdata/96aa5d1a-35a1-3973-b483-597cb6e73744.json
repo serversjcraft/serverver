@@ -40,6 +40,12 @@
                     ]
                 },
                 "Quest": 1
+            },
+            {
+                "QuestCompleted": 0b,
+                "ExtraData": {
+                },
+                "Quest": 2
             }
         ]
     },
@@ -62,6 +68,9 @@
         },
         {
             "Dialog": 13
+        },
+        {
+            "Dialog": 15
         }
     ],
     "ItemGiverChained": [
