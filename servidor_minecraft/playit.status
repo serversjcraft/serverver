@@ -1,3580 +1,880 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1734569753526 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1734582615315 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569756592 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582618386 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569759663 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582621440 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569762729 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582624495 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569765788 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582627549 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569768978 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582630601 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569772042 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582633657 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569775104 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582636710 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569778171 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582639763 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569781237 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582642829 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569784298 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582645890 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569787367 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582648942 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569790430 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582652005 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569793494 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582655075 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569796559 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582658131 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569799616 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582661185 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569802684 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582664245 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569805746 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582667324 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569808815 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582670418 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569811881 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582673474 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569814971 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582676536 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569818031 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582679612 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569821105 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582682720 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569824167 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582685798 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569827230 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582688856 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569830289 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582691916 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569833354 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582694977 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569836410 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582698035 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569839484 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582701104 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569842550 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582704182 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569845612 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582707249 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569848683 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582710311 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569851760 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582713375 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569854816 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582716437 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569857878 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582719536 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569860937 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582722607 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569864000 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582725666 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569867059 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582728729 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569870128 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582731816 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569873185 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582734888 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569876244 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582737946 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569879299 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582741002 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569882381 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582744065 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569885441 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582747135 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569888604 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582750196 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569891660 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582753252 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569894739 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582756324 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569897805 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582759383 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569900859 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582762499 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569903985 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582765557 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569907050 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582768630 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569910109 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582771712 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569913173 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582774770 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569916238 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582777828 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569919304 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582780903 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569922378 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582783961 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569925432 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582787034 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569928542 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582790095 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569931616 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582793159 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569934670 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582796222 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569937737 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582799283 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569940806 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582802341 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569943867 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582805398 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569946932 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582808453 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569950003 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582811511 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569953057 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582814615 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569956126 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582817678 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569959193 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582820739 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569962254 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582823796 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569965312 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582826894 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569968366 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582829973 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569971426 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582833046 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569974482 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582836124 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569977542 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582839178 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569980612 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582842348 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569983671 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582845405 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569986754 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582848466 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569989819 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582851541 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569992927 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582854607 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569995990 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582857684 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734569999052 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582860740 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570002161 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582863860 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570005247 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582866921 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570008342 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582869976 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570011399 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582873149 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570014491 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582876204 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570017773 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582879337 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570020828 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582882404 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570023907 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582885463 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570026982 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582888532 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570030051 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582891597 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570033110 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582894668 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570036170 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582897731 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570039233 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582900786 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570042296 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582903842 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570045359 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582906903 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570048420 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582909962 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570051480 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582913018 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570054544 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582916078 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570057606 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582919144 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570060669 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582922207 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570063738 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582925280 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570066812 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582928340 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570069871 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582931396 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570072943 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582934459 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570076008 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582937514 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570079072 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582940574 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570082131 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582943630 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570085195 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582946687 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570088256 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582949754 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570091354 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582952821 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570094522 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582955879 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570097583 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582959067 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570100645 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582962135 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570103743 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582965200 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570106817 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582968256 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570109887 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582971313 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570112954 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582974385 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570116014 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582977443 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570119075 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582980509 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570122138 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582983572 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570125196 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582986635 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570128256 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582989694 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570131313 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582992874 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570134376 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582995931 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570137432 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734582998992 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570140490 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734583002069 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570143558 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734583005133 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570146628 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734583008188 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570149692 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734583011254 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570152752 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734583014345 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570155828 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734583017404 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570158896 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734583020462 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570161978 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734583023545 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570165040 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734583026610 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570168109 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734583029679 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570171190 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734583032805 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570174260 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734583035881 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570177318 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734583038946 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570180380 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734583042022 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570183449 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734583045087 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570186507 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734583048141 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570189590 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734583051211 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570192655 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734583054264 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570195720 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734583057317 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570198779 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734583060371 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570201837 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570204892 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570207957 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570211018 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570214108 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570217188 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570220268 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570223334 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570226422 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570229478 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570232552 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570235709 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570238772 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570241868 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570244940 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570248003 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570251062 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570254159 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570257214 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570260283 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570263348 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570266408 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570269468 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570272533 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570275608 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570278667 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570281726 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570284782 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570287843 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570290907 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570293977 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570297038 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570300098 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570303211 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570306270 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570309326 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570312394 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570315492 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570318566 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570321629 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570324691 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570327745 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570330803 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570333860 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570336928 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570339994 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570343049 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570346116 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570349243 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570352340 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570355417 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570358475 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570361536 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570364592 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570367648 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570370719 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570373784 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570376847 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570379907 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570382980 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570386045 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570389204 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570392274 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570395337 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570398399 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570401480 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570404536 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570407600 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570410697 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570413760 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570416819 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570419993 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570423071 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570426152 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570429211 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570432274 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570435346 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570438508 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570441566 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570444639 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570447691 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570450761 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570453831 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570456897 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570459961 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570463026 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570466085 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570469165 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570472222 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570475284 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570478387 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570481454 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570484510 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570487574 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570490636 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570493695 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570496750 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570499826 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570502901 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570505956 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570509020 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570512222 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570515281 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570518344 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570521407 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570524462 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570527519 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570530580 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570533636 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570536697 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570539759 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570542820 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570545880 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570548945 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570552010 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570555092 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570558158 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570561221 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570564294 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570567352 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570570510 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570573579 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570576640 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570579711 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570582775 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570585848 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570588911 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570591975 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570595053 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570598115 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570601209 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570604279 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570607345 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570610425 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570613568 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570616641 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570619695 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570622749 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570625818 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570628917 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570631988 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570635109 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570638177 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570641346 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570644408 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570647467 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570650530 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570653600 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570656702 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570659765 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570662887 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570665943 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570669013 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570672105 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570675165 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570678245 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570681315 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570684406 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570687475 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570690540 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570693624 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570696704 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570699777 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570702842 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570705977 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570709037 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570712100 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570715177 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570718245 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570721318 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570724388 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570727457 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570730532 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570733615 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570736742 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570739810 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570742870 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570745939 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570749003 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570752070 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570755163 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570758223 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570761286 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570764348 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570767412 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570770477 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570773549 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570776608 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570779741 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570782798 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570785862 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570788952 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570792048 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570795117 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570798199 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570801267 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570804375 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570807450 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570810528 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570813589 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570816660 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570819717 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570822791 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570825855 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570828916 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570831976 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570835033 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570838107 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570841187 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570844256 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570847321 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570850382 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570853446 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570856510 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570859595 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570862661 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570865728 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570868786 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570871841 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570874896 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570877994 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570881075 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570884134 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570887195 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570890267 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570893333 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570896392 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570899468 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570902537 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570905662 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570908736 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570911795 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570914856 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570917915 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570920978 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570924041 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570927100 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570930161 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570933222 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570936311 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570939376 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570942437 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570945506 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570948578 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570951642 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570954706 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570957799 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570960874 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570963953 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570967029 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570970105 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570973179 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570976233 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570979295 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570982431 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570985503 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570988561 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570991670 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570994736 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734570997806 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571000866 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571003920 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571006977 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571010034 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571013101 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571016159 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571019234 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571022302 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571025365 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571028427 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571031483 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571034553 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571037624 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571040720 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571043783 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571046846 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571049980 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571053049 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571056132 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571059186 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571062251 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571065307 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571068369 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571071431 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571074537 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571077597 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571080651 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571083711 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571086772 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571089842 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571092899 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571095952 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571099008 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571102072 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571105150 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571108210 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571111269 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571114330 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571117394 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571120468 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571123534 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571126602 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571129662 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571132718 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571135776 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571138845 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571141920 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571144989 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571148051 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571151126 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571154206 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571157265 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571160327 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571163387 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571166457 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571169517 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571172581 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571175659 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571178759 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571181819 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571184893 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571187960 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571191027 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571194104 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571197168 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571200227 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571203306 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571206369 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571209427 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571212527 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571215588 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571218656 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571221713 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571224774 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571227843 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571230909 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571233976 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571237092 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571240154 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571243216 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571246279 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571249347 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571252406 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571255547 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571258621 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571261688 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571264762 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571267824 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571270895 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571274001 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571277060 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571280122 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571283198 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571286259 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571289328 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571292392 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571295454 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571298519 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571301583 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571304686 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571307753 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571310830 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571313911 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571316971 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571320043 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571323124 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571326182 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571329244 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571332305 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571335373 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571338446 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571341527 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571344606 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571347664 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571350724 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571353787 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571356852 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571359916 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571362981 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571366047 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571369110 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571372221 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571375288 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571378413 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571381476 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571384568 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571387627 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571390698 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571393761 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571396839 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571399944 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571403051 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571406144 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571409206 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571412267 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571415324 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571418387 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571421465 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571424534 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571427606 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571430675 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571433736 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571436797 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571439867 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571442945 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571446011 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571449072 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571452154 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571455305 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571458386 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571461448 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571464522 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571467596 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571470660 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571473725 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571476792 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571479857 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571482927 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571485983 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571489041 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571492103 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571495194 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571498251 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571501325 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571504406 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571507492 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571510570 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571513636 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571516696 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571519755 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571523092 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571526153 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571529216 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571532293 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571535355 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571538434 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571541489 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571544556 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571547617 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571550674 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571553731 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571556788 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571559860 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571562918 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571565984 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571569129 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571572194 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571575252 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571578311 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571581393 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-windows-ten.gl.at.ply.gg:22681 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-videos-thinks.gl.at.ply.gg:2498 => 127.0.0.1:2498 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1734571584448 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734583063426 tunnel running, 2 tunnels registered
 
 
 TUNNELS
