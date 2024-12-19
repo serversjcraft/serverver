@@ -585,6 +585,7 @@
       "tundra": "2024-12-04 00:35:25 +0000",
       "gravel_beach": "2024-12-03 22:11:56 +0000",
       "lavender_fields": "2024-12-04 00:08:10 +0000",
+      "sacred_springs": "2024-12-19 18:06:16 +0000",
       "crag": "2024-12-14 05:18:04 +0000",
       "brushland": "2024-12-03 21:28:15 +0000"
     },
@@ -821,6 +822,12 @@
   "minecraft:recipes/building_blocks/green_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2024-12-05 04:05:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_myrmex": {
+    "criteria": {
+      "jungle": "2024-12-19 18:07:49 +0000"
     },
     "done": true
   },
@@ -1335,6 +1342,7 @@
       "forest_hills": "2024-12-04 00:03:44 +0000",
       "plains": "2024-12-03 20:30:02 +0000",
       "savanna": "2024-12-03 22:43:14 +0000",
+      "jungle_edge": "2024-12-19 18:06:09 +0000",
       "savanna_rock": "2024-12-05 02:28:54 +0000",
       "redwood_taiga": "2024-12-03 23:56:30 +0000",
       "taiga": "2024-12-03 23:55:26 +0000",
@@ -1347,6 +1355,7 @@
       "roofed_forest": "2024-12-04 02:37:23 +0000",
       "cold_beach": "2024-12-05 03:41:47 +0000",
       "river": "2024-12-03 21:10:30 +0000",
+      "jungle": "2024-12-19 18:05:56 +0000",
       "desert": "2024-12-13 04:22:28 +0000",
       "stone_beach": "2024-12-11 20:41:56 +0000"
     },
@@ -1929,6 +1938,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/myrmex_resin": {
+    "criteria": {
+      "jungle": "2024-12-19 18:08:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "bred_cow": "2024-12-07 02:47:05 +0000",
@@ -2443,6 +2458,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-03 22:33:51 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_grottol_fortune": {
+    "criteria": {
+      "steal_crystal": "2024-12-19 17:43:15 +0000"
     },
     "done": true
   },
