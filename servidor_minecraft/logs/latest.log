@@ -30420,3 +30420,10 @@
 [22:29:24] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
 [22:29:32] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
 [22:31:09] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree2' canceled generation at [297, -970] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@11cadb61
+[22:33:12] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.13 and blood value 0 for entity zawa:gilamonster
+[22:33:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:33:44] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.13 and blood value 0 for entity zawa:echidna
+[22:34:17] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Hunter is 0.01
+[22:34:22] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Hunter is 0.01
+[22:34:27] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Hunter is 0.01
+[22:34:45] [Thread-3/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
