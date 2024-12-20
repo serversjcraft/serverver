@@ -1571,6 +1571,7 @@
       "apple": "2024-12-14 04:14:55 +0000",
       "potato": "2024-12-03 22:52:19 +0000",
       "bread": "2024-12-03 21:23:47 +0000",
+      "cookie": "2024-12-20 03:07:14 +0000",
       "carrot": "2024-12-03 22:52:25 +0000"
     },
     "done": false
@@ -2376,6 +2377,12 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2024-12-04 23:05:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/magic_siphoner": {
+    "criteria": {
+      "coded_trigger": "2024-12-20 03:09:27 +0000"
     },
     "done": true
   },
