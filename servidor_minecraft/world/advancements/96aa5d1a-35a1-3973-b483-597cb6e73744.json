@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2024-12-20 19:32:08 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2024-11-30 22:25:08 +0000"
@@ -272,6 +278,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2024-12-01 04:05:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/speckled_melon": {
+    "criteria": {
+      "has_melon": "2024-12-20 19:32:08 +0000"
     },
     "done": true
   },
@@ -440,6 +452,7 @@
       "highland": "2024-12-10 02:41:49 +0000",
       "chaparral": "2024-12-01 01:35:29 +0000",
       "cold_desert": "2024-12-02 02:45:26 +0000",
+      "mountain_foothills": "2024-12-20 20:11:32 +0000",
       "maple_woods": "2024-12-14 05:24:36 +0000",
       "coral_reef": "2024-12-17 04:08:04 +0000",
       "moor": "2024-12-05 05:00:16 +0000",
@@ -763,6 +776,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/purple_dye_from_violet": {
+    "criteria": {
+      "has_flower": "2024-12-20 19:47:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2024-12-05 04:47:22 +0000"
@@ -851,6 +870,7 @@
     "criteria": {
       "peridot": "2024-12-05 02:51:59 +0000",
       "amber": "2024-12-04 23:39:40 +0000",
+      "emerald": "2024-12-20 20:16:15 +0000",
       "ruby": "2024-12-03 22:39:41 +0000",
       "sapphire": "2024-12-12 16:11:53 +0000"
     },
@@ -1149,6 +1169,7 @@
       "deep_ocean": "2024-12-01 01:35:27 +0000",
       "beaches": "2024-12-01 01:35:07 +0000",
       "extreme_hills_with_trees": "2024-12-05 04:48:21 +0000",
+      "mesa": "2024-12-20 20:07:46 +0000",
       "forest_hills": "2024-12-14 05:27:20 +0000",
       "plains": "2024-11-30 22:25:08 +0000",
       "savanna": "2024-12-01 00:51:25 +0000",
@@ -1163,6 +1184,7 @@
       "taiga_cold": "2024-12-10 02:43:31 +0000",
       "ocean": "2024-12-01 01:35:05 +0000",
       "extreme_hills": "2024-12-05 04:45:53 +0000",
+      "cold_beach": "2024-12-20 19:49:24 +0000",
       "river": "2024-12-01 00:57:50 +0000",
       "desert": "2024-12-17 04:08:44 +0000",
       "stone_beach": "2024-12-14 05:34:09 +0000"
@@ -1298,6 +1320,12 @@
   "biomesoplenty:recipes/misc/sand_from_dried_sand": {
     "criteria": {
       "has_gem_block": "2024-12-01 03:17:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon_block": {
+    "criteria": {
+      "has_melon": "2024-12-20 19:32:08 +0000"
     },
     "done": true
   },
