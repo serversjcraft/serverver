@@ -1857,6 +1857,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/stolen_magic": {
+    "criteria": {
+      "coded_trigger": "2024-12-20 03:01:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2024-12-01 17:55:28 +0000"

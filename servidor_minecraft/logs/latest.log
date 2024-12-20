@@ -30585,3 +30585,30 @@ Caused by: java.lang.NullPointerException
 [02:56:16] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Hunter is 0.01
 [02:56:26] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
 [02:56:42] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[02:58:56] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Hunter is 0.01
+[02:59:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:00:04] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Hunter is 0.01
+[03:01:17] [Async Chat Thread - 9/INFO] []: [] DuvanD: no aparecen mobs en la granja de xp
+[03:01:22] [Async Chat Thread - 9/INFO] []: [] DuvanD: bn chao mañan ajuego
+[03:01:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: skenecrackm has made the advancement [Stolen Magic]
+[03:01:32] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Hunter is 0.01
+[03:01:38] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD lost connection: Disconnected
+[03:01:38] [Server thread/DEBUG] [voicechat]: [voicechat] Removing state of DuvanD
+[03:01:38] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client DuvanD
+[03:01:38] [Server thread/INFO] []: [-] DuvanD
+[03:01:42] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[03:02:03] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Hunter is 0.01
+[03:02:23] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[03:03:15] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[03:03:42] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Hunter is 0.01
+[03:04:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:04:14] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Hunter is 0.01
+[03:04:30] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Hunter is 0.01
+[03:05:04] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Hunter is 0.01
+[03:05:25] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Hunter is 0.01
+[03:06:31] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Hunter is 0.01
+[03:07:04] [Server thread/INFO] [Scaling Health]: Blight Hunter was killed by skenecrackm
+[03:07:04] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Hunter is 0.01
+[03:07:21] [Server thread/TRACE] [reccomplex]: Structure 'OakTree' canceled generation at [297, -971] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2961d232
+[03:07:40] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Hunter is 0.01
+[03:08:18] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Hunter is 0.01
