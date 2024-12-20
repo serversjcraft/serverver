@@ -30352,3 +30352,21 @@
 [22:11:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: You must specify which player you wish to perform this action on.
 [22:11:17] [Server thread/INFO] []: Unknown command. Type "/help" for help.
 [22:11:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set skenecrackm's game mode to Creative Mode
+[22:13:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:15:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set skenecrackm's game mode to Survival Mode
+[22:15:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lJuqncl has made the advancement [Rotten to the Core]
+[22:16:10] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree3' canceled generation at [434, -1092] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@11cadb61
+[22:16:37] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Chicken is 0.001
+[22:16:38] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: skenecrackm lost connection: Disconnected
+[22:16:38] [Server thread/DEBUG] [voicechat]: [voicechat] Removing state of skenecrackm
+[22:16:38] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 96aa5d1a-35a1-3973-b483-597cb6e73744 does not have a secret
+[22:16:38] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client skenecrackm
+[22:16:38] [Server thread/INFO] []: [-] skenecrackm
+[22:16:38] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 96aa5d1a-35a1-3973-b483-597cb6e73744 does not have a secret
+[22:16:40] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Chicken is 0.001
+[22:16:41] [Server thread/WARN] [mca]: Force-stopped chore because assigning player was not present.
+[22:16:43] [Server thread/WARN] [mca]: Force-stopped chore because assigning player was not present.
+[22:16:45] [Server thread/WARN] [mca]: Force-stopped chore because assigning player was not present.
+[22:16:46] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Chicken is 0.001
+[22:18:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:20:37] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree2' canceled generation at [296, -970] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@11cadb61
