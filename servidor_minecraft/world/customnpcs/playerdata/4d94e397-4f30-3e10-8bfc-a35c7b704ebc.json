@@ -38,19 +38,20 @@
             {
                 "Quest": 1,
                 "Date": 6998081L
+            },
+            {
+                "Quest": 2,
+                "Date": 8302817L
             }
         ],
         "ActiveQuests": [
-            {
-                "QuestCompleted": 0b,
-                "ExtraData": {
-                },
-                "Quest": 2
-            }
         ]
     },
     "PlayerCompanionId": 0,
     "DialogData": [
+        {
+            "Dialog": 16
+        },
         {
             "Dialog": 5
         },
