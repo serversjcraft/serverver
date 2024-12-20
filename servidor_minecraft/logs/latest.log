@@ -30472,3 +30472,116 @@ Caused by: java.lang.NullPointerException
 [02:47:46] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /werewolf true lJuqncl
 [02:47:47] [Async Chat Thread - 7/INFO] []: [] DuvanD: mire
 [02:47:47] [Async Chat Thread - 7/INFO] []: [] DuvanD: a
+[02:47:53] [Async Chat Thread - 7/INFO] []: [] lJuqncl: que
+[02:47:56] [Async Chat Thread - 7/INFO] []: [] DuvanD: digaleque le de op
+[02:47:57] [Async Chat Thread - 7/INFO] []: [] DuvanD: a ud
+[02:48:01] [Async Chat Thread - 7/INFO] []: [] lJuqncl: a mi?
+[02:48:04] [Async Chat Thread - 7/INFO] []: [] lJuqncl: me da pena
+[02:48:05] [Async Chat Thread - 7/INFO] []: [] DuvanD: pq el comando n deja hacer hombre lobo a otros
+[02:48:15] [Async Chat Thread - 7/INFO] []: [] DuvanD: osea el comando solo da hombre lobo al que lo pone
+[02:48:23] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /werewolf false
+[02:48:27] [Async Chat Thread - 7/INFO] []: [] lJuqncl: y si me spawnea un hombre lobo y que me muerda y ya lo mata
+[02:48:34] [Async Chat Thread - 7/INFO] []: [] DuvanD: digame su ubicacion
+[02:48:50] [Async Chat Thread - 7/INFO] []: [] lJuqncl: ps donde esta ud
+[02:48:54] [Async Chat Thread - 7/INFO] []: [] DuvanD: en dnd pipe
+[02:48:56] [Async Chat Thread - 7/INFO] []: [] DuvanD: la granja
+[02:49:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:49:17] [User Authenticator #3/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player skenecrackm is 96aa5d1a-35a1-3973-b483-597cb6e73744
+[02:49:17] [Server thread/TRACE] [FML]: Handshake channel activating
+[02:49:17] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[02:49:17] [Server thread/DEBUG] [FML]:   Next: HELLO
+[02:49:17] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[02:49:17] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ModList:71 mods->FMLHandshakeServerState$2:HELLO
+[02:49:17] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 71 mods : wolfarmor@3.8.1+alpha.1,treechop@0.14.6,mowziesmobs@1.5.8,extendedrenderer@v1.0,netherportalfix@5.3.17,trashslot@8.4.10,customnpcitems@1.0.0,vampirism_integrations@vampirism_integrations,zawa@1.12.2-2.1.3,mca@6.1.0,creativecoredummy@1.0.0,configmod@v1.0,jei@4.26.2,custommainmenu@2.0.9.1,radixcore@1.12.x-2.2.1,ivtoolkit@1.3.3-1.12,neat@1.4-17,waystones@4.1.0,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,badmobs@1.1.40,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,iceandfire@1.9.1,tlauncher_custom_cape_skin@1.4,fpsreducer@mc1.12.2-1.20,teamlapen-lib@1.6.2,forge@14.23.5.2860,malisisdoors@1.12.2-7.3.0,konkrete@1.6.1,chococraft@3.1.415.0,infernalmobs@1.7.6,minecraft@1.12.2,stonemask@1.0.0,malisiscore@1.12.2-6.5.1-SNAPSHOT,voicechat@1.12.2-2.5.26,biomesoplenty@7.0.1.2445,getittogetherdrops@1.0.2,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,reccomplex@1.4.8.6,rustic@1.1.7,fairylights@2.1.10,howlingmoon@0.9,spartanshields@1.5.5,xaerominimap@24.6.1,collective@3.0,fastbench@1.7.4,securitycraft@v1.9.11,libraryex@1.2.2,toughasnails@3.1.0.141,FML@8.0.99.99,tombstone@4.7.3,customnpcs@1.12,coroutil@1.12.1-1.2.37,srparasites@1.8.2,cfm@6.5.0,aiimprovements@0.0.1.3,connectedglass@1.1.4,vampirism@1.6.2,xaerominimap_core@1.12.2-1.0,bookworm@1.12.2-2.5.2.1,msic@1.0,codechickenlib@3.2.3.358,scalinghealth@1.3.37,soundfilters@0.12.1_for_1.12,netherex@2.2.5,playerrevive@1.0,mobends@1.2.1
+[02:49:17] [Netty Epoll Server IO #1/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist] modCLIENT
+[02:49:17] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: WAITINGCACK
+[02:49:17] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[02:49:17] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: COMPLETE
+[02:49:17] [Netty Epoll Server IO #1/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[02:49:18] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[02:49:18] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: DONE
+[02:49:18] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[02:49:18] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:49:18] [Server thread/INFO] []: [+] skenecrackm
+[02:49:19] [Server thread/DEBUG] [vampirism]: [EventHandler]Sending configuration to client (EntityPlayerMP['skenecrackm'/61475, uuid='96aa5d1a-35a1-3973-b483-597cb6e73744', l='world', x=-45.76, y=66.00, z=-727.21, cx=-3, cd=-46, tl=2249642, v=true, d=false](skenecrackm at -45.75517142973799,66.0,-727.2123381852451))
+[02:49:19] [Server thread/DEBUG] [voicechat]: [voicechat] Setting default state of skenecrackm: {disabled=false, disconnected=true, uuid=96aa5d1a-35a1-3973-b483-597cb6e73744, name=skenecrackm, group=null}
+[02:49:19] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: skenecrackm[/127.224.155.220:40235] logged in with entity id 61475 at ([world]-45.75517142973799, 66.0, -727.2123381852451)
+[02:49:19] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[02:49:19] [Server thread/ERROR] [net.minecraft.entity.projectile.EntityPotion]: ThrownPotion entity 61804 has no item?!
+[02:49:20] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /summon howlingmoon:entitywerewolf
+[02:49:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [DuvanD: Object successfully summoned]
+[02:49:22] [Async Chat Thread - 7/INFO] []: [] DuvanD: ala
+[02:49:22] [Async Chat Thread - 7/INFO] []: [] lJuqncl: bo me traje la espada pete
+[02:49:23] [Netty Epoll Server IO #1/INFO] [voicechat]: [voicechat] Received secret request of skenecrackm (18)
+[02:49:23] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Sending initial states to skenecrackm
+[02:49:23] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with skenecrackm
+[02:49:23] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with skenecrackm
+[02:49:23] [Netty Epoll Server IO #1/INFO] [voicechat]: [voicechat] Sent secret to skenecrackm
+[02:49:24] [Async Chat Thread - 7/INFO] []: [] DuvanD: salio raro
+[02:49:28] [Async Chat Thread - 7/INFO] []: [] DuvanD: jaja
+[02:49:30] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 96aa5d1a-35a1-3973-b483-597cb6e73744
+[02:49:31] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 96aa5d1a-35a1-3973-b483-597cb6e73744
+[02:49:31] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of skenecrackm to connected: {disabled=false, disconnected=false, uuid=96aa5d1a-35a1-3973-b483-597cb6e73744, name=skenecrackm, group=null}
+[02:49:31] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player skenecrackm (96aa5d1a-35a1-3973-b483-597cb6e73744) successfully connected to voice chat
+[02:49:31] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Got state of skenecrackm: {disabled=false, disconnected=false, uuid=96aa5d1a-35a1-3973-b483-597cb6e73744, name=skenecrackm, group=null}
+[02:49:40] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Setting group of skenecrackm: {disabled=false, disconnected=false, uuid=96aa5d1a-35a1-3973-b483-597cb6e73744, name=skenecrackm, group=6059b2c5-29de-47e9-aec8-d87b359407f4}
+[02:49:45] [Async Chat Thread - 7/INFO] []: [Owner] skenecrackm: hola
+[02:49:47] [Async Chat Thread - 7/INFO] []: [] DuvanD: hola
+[02:49:48] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[02:49:49] [Async Chat Thread - 7/INFO] []: [] lJuqncl: hola
+[02:49:55] [Async Chat Thread - 7/INFO] []: [] lJuqncl: dodne esta
+[02:50:00] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[02:50:04] [Async Chat Thread - 7/INFO] []: [Owner] skenecrackm: en el bosque cazando hunters
+[02:50:05] [Async Chat Thread - 7/INFO] []: [] lJuqncl: l oquito??
+[02:50:10] [Async Chat Thread - 7/INFO] []: [] DuvanD: sefue
+[02:50:15] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /summon howlingmoon:entitywerewolf
+[02:50:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [DuvanD: Object successfully summoned]
+[02:50:18] [Async Chat Thread - 7/INFO] []: [] DuvanD: vea
+[02:50:19] [Async Chat Thread - 7/INFO] []: [] DuvanD: aca
+[02:50:21] [Async Chat Thread - 7/INFO] []: [] DuvanD: puse
+[02:50:40] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Werewolf is 0.01
+[02:50:42] [Async Chat Thread - 7/INFO] []: [] DuvanD: si le infecto
+[02:50:42] [Async Chat Thread - 7/INFO] []: [] DuvanD: ?
+[02:50:42] [Async Chat Thread - 7/INFO] []: [] lJuqncl: nice
+[02:50:45] [Async Chat Thread - 7/INFO] []: [] lJuqncl: si
+[02:50:59] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Vampire is 0.001
+[02:51:05] [Async Chat Thread - 7/INFO] []: [Owner] skenecrackm: entren al grupo
+[02:51:09] [Netty Epoll Server IO #0/DEBUG] [voicechat]: [voicechat] Setting group of DuvanD: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=6059b2c5-29de-47e9-aec8-d87b359407f4}
+[02:51:11] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Setting group of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=6059b2c5-29de-47e9-aec8-d87b359407f4}
+[02:51:12] [Async Chat Thread - 7/INFO] []: [] DuvanD: ya
+[02:51:14] [Async Chat Thread - 7/INFO] []: [] DuvanD: oe
+[02:51:28] [Async Chat Thread - 7/INFO] []: [] DuvanD: pipe
+[02:51:30] [Async Chat Thread - 7/INFO] []: [] DuvanD: quiere ser
+[02:51:34] [Async Chat Thread - 7/INFO] []: [] DuvanD: hombre lobo
+[02:51:35] [Async Chat Thread - 7/INFO] []: [] DuvanD: ?
+[02:51:38] [Async Chat Thread - 7/INFO] []: [] DuvanD: pa que tanta demora
+[02:51:41] [Async Chat Thread - 7/INFO] []: [] DuvanD: de 50 perlas
+[02:51:48] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Bat is 0.001
+[02:51:48] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Bat is 0.001
+[02:51:51] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Vampire is 0.001
+[02:51:51] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Bat is 0.001
+[02:52:09] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[02:52:14] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Hunter is 0.01
+[02:52:50] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.25 and blood value 0 for entity iceandfire:firedragon
+[02:52:51] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 16.8 and blood value 0 for entity zawa:reticulatedgiraffe
+[02:52:51] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.22 and blood value 0 for entity zawa:macaw
+[02:52:51] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Hunter is 0.01
+[02:52:59] [Server thread/DEBUG] [vampirism]: [VampirePlayer]Waking up player
+[02:53:15] [Async Chat Thread - 8/INFO] []: [] DuvanD: que acabo de dormir
+[02:53:17] [Async Chat Thread - 8/INFO] []: [] DuvanD: en eso
+[02:53:19] [Server thread/DEBUG] [vampirism]: [VampirePlayer]Waking up player
+[02:53:23] [Server thread/DEBUG] [vampirism]: [VampirePlayer]Waking up player
+[02:53:32] [Async Chat Thread - 8/INFO] []: [] DuvanD: tengo sed
+[02:53:37] [Async Chat Thread - 8/INFO] []: [] DuvanD: y pipe ya tiene eso cons eguridad
+[02:53:52] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Hunter is 0.01
+[02:53:57] [Server thread/DEBUG] [vampirism]: [VampirePlayer]Waking up player
+[02:54:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:54:13] [Async Chat Thread - 8/INFO] []: [] DuvanD: si
+[02:54:17] [Async Chat Thread - 8/INFO] []: [] DuvanD: creo
+[02:54:19] [Async Chat Thread - 8/INFO] []: [] DuvanD: o durmiendo
+[02:55:00] [Async Chat Thread - 8/INFO] []: [] DuvanD: dnd ta o que
+[02:55:05] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Hunter is 0.01
+[02:56:15] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Hunter is 0.01
+[02:56:16] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Hunter is 0.01
+[02:56:26] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[02:56:42] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
