@@ -30040,3 +30040,29 @@
 [16:47:19] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of skenecrackm to connected: {disabled=false, disconnected=false, uuid=96aa5d1a-35a1-3973-b483-597cb6e73744, name=skenecrackm, group=null}
 [16:47:19] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player skenecrackm (96aa5d1a-35a1-3973-b483-597cb6e73744) successfully connected to voice chat
 [16:47:19] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of skenecrackm: {disabled=false, disconnected=false, uuid=96aa5d1a-35a1-3973-b483-597cb6e73744, name=skenecrackm, group=null}
+[16:48:57] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Hunter is 0.01
+[16:49:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:49:41] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Setting group of skenecrackm: {disabled=false, disconnected=false, uuid=96aa5d1a-35a1-3973-b483-597cb6e73744, name=skenecrackm, group=8449b049-a83c-4a3a-b551-8fe95c4aa128}
+[16:50:22] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.25 and blood value 0 for entity zawa:greathornedowl
+[16:51:13] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[16:51:21] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[16:51:22] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[16:51:28] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[16:51:29] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[16:51:43] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[16:51:45] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[16:52:04] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[16:52:08] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[16:52:08] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[16:52:17] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Vampire is 0.001
+[16:52:25] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Bat is 0.001
+[16:52:32] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[16:52:45] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[16:52:54] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[16:52:55] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[16:52:58] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[16:53:09] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[16:53:17] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[16:54:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:55:51] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[16:55:59] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
