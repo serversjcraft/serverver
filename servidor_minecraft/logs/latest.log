@@ -30677,3 +30677,32 @@ Caused by: java.lang.NullPointerException
 [03:34:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [03:36:46] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Hunter is 0.01
 [03:38:58] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[03:39:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:40:52] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[03:41:32] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Hunter is 0.01
+[03:41:40] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[03:41:47] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[03:41:49] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[03:41:50] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[03:41:52] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[03:41:53] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[03:41:55] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[03:42:01] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[03:42:04] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[03:42:07] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[03:42:11] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[03:42:15] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[03:42:17] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[03:42:22] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[03:42:27] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[03:42:29] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[03:42:54] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[03:42:54] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[03:43:01] [Server thread/TRACE] [reccomplex]: Structure 'FirTree' canceled generation at [432, -1093] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2961d232
+[03:43:14] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[03:43:20] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[03:43:25] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[03:43:26] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[03:43:31] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[03:43:59] [Thread-3/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[03:43:59] [Thread-3/INFO] [Mohist]: Disabling PowerRanks v1.9.6
