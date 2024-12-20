@@ -557,6 +557,7 @@
       "marsh": "2024-12-04 02:48:59 +0000",
       "chaparral": "2024-12-03 22:24:29 +0000",
       "flower_island": "2024-12-19 19:33:11 +0000",
+      "wetland": "2024-12-20 04:10:55 +0000",
       "cold_desert": "2024-12-11 20:39:11 +0000",
       "mountain_foothills": "2024-12-13 03:52:04 +0000",
       "maple_woods": "2024-12-04 00:49:24 +0000",
@@ -1269,6 +1270,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-20 04:09:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
       "has_redstone": "2024-12-03 23:23:32 +0000"
@@ -1543,6 +1550,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-20 04:09:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_the_recipe": "2024-12-03 23:38:23 +0000"
@@ -1666,6 +1679,12 @@
   "biomesoplenty:recipes/decorations/sign_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2024-12-03 21:24:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-20 04:09:54 +0000"
     },
     "done": true
   },

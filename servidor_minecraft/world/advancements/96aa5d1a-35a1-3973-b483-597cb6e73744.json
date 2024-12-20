@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-20 04:13:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-12-03 22:15:21 +0000"
@@ -849,6 +855,12 @@
       "sapphire": "2024-12-12 16:11:53 +0000"
     },
     "done": false
+  },
+  "tombstone:tutorial/master_siphoner": {
+    "criteria": {
+      "coded_trigger": "2024-12-20 03:54:20 +0000"
+    },
+    "done": true
   },
   "mowziesmobs:root": {
     "criteria": {
