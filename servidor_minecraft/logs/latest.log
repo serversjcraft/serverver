@@ -30164,3 +30164,311 @@
 [02:34:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [02:37:04] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.13 and blood value 0 for entity zawa:brownrat
 [02:37:40] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.0 and blood value 0 for entity iceandfire:seaserpent
+[02:39:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:41:14] [User Authenticator #2/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player DuvanD is c92e8c31-652c-3fc5-b7b5-ece9aaa045ad
+[02:41:14] [Server thread/TRACE] [FML]: Handshake channel activating
+[02:41:14] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[02:41:14] [Server thread/DEBUG] [FML]:   Next: HELLO
+[02:41:15] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[02:41:15] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ModList:71 mods->FMLHandshakeServerState$2:HELLO
+[02:41:15] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 71 mods : wolfarmor@3.8.1+alpha.1,treechop@0.14.6,mowziesmobs@1.5.8,extendedrenderer@v1.0,mixinbooter@10.2,netherportalfix@5.3.17,trashslot@8.4.10,customnpcitems@1.0.0,vampirism_integrations@vampirism_integrations,zawa@1.12.2-2.1.3,mca@6.1.0,creativecoredummy@1.0.0,configmod@v1.0,jei@4.26.2,custommainmenu@2.0.9.1,radixcore@1.12.x-2.2.1,ivtoolkit@1.3.3-1.12,neat@1.4-17,waystones@4.1.0,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,badmobs@1.1.40,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,iceandfire@1.9.1,tlauncher_custom_cape_skin@1.4,fpsreducer@mc1.12.2-1.20,teamlapen-lib@1.6.2,forge@14.23.5.2860,malisisdoors@1.12.2-7.3.0,konkrete@1.6.1,chococraft@3.1.415.0,infernalmobs@1.7.6,minecraft@1.12.2,stonemask@1.0.0,malisiscore@1.12.2-6.5.1-SNAPSHOT,voicechat@1.12.2-2.5.26,biomesoplenty@7.0.1.2445,getittogetherdrops@1.0.2,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,reccomplex@1.4.8.6,vintagefix@0.5.1,rustic@1.1.7,fairylights@2.1.10,howlingmoon@0.9,spartanshields@1.5.5,xaerominimap@24.6.1,collective@3.0,fastbench@1.7.4,securitycraft@v1.9.11,libraryex@1.2.2,toughasnails@3.1.0.141,FML@8.0.99.99,tombstone@4.7.3,customnpcs@1.12,coroutil@1.12.1-1.2.37,srparasites@1.8.2,cfm@6.5.0,aiimprovements@0.0.1.3,connectedglass@1.1.4,vampirism@1.6.2,xaerominimap_core@1.12.2-1.0,bookworm@1.12.2-2.5.2.1,msic@1.0,codechickenlib@3.2.3.358,scalinghealth@1.3.37,netherex@2.2.5,playerrevive@1.0
+[02:41:15] [Netty Epoll Server IO #0/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist] modCLIENT
+[02:41:15] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: WAITINGCACK
+[02:41:15] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[02:41:15] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: COMPLETE
+[02:41:15] [Netty Epoll Server IO #0/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[02:41:19] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[02:41:19] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: DONE
+[02:41:19] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[02:41:19] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:41:19] [Server thread/DEBUG] [vampirism]: [FactionPlayerHandler]Changing to PlayableFaction{playerCapability='net.minecraftforge.common.capabilities.Capability@3294b801'name='Vampire'} 4
+[02:41:19] [Server thread/INFO] []: [+] DuvanD
+[02:41:19] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[02:41:19] [Server thread/DEBUG] [vampirism]: [EventHandler]Sending configuration to client (EntityPlayerMP['DuvanD'/52323, uuid='c92e8c31-652c-3fc5-b7b5-ece9aaa045ad', l='world', x=39.29, y=66.12, z=-720.20, cx=2, cd=-46, tl=4516144, v=true, d=false](DuvanD at 39.291585189923964,66.1212968405392,-720.2026547661727))
+[02:41:19] [Server thread/DEBUG] [voicechat]: [voicechat] Setting default state of DuvanD: {disabled=false, disconnected=true, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[02:41:19] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: DuvanD[/127.134.187.169:33959] logged in with entity id 52323 at ([world]39.291585189923964, 66.1212968405392, -720.2026547661727)
+[02:41:27] [Netty Epoll Server IO #0/INFO] [voicechat]: [voicechat] Received secret request of DuvanD (18)
+[02:41:27] [Netty Epoll Server IO #0/DEBUG] [voicechat]: [voicechat] Sending initial states to DuvanD
+[02:41:27] [Netty Epoll Server IO #0/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with DuvanD
+[02:41:27] [Netty Epoll Server IO #0/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with DuvanD
+[02:41:27] [Netty Epoll Server IO #0/INFO] [voicechat]: [voicechat] Sent secret to DuvanD
+[02:41:37] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad
+[02:41:38] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad
+[02:41:38] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of DuvanD to connected: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[02:41:38] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player DuvanD (c92e8c31-652c-3fc5-b7b5-ece9aaa045ad) successfully connected to voice chat
+[02:41:38] [Netty Epoll Server IO #0/DEBUG] [voicechat]: [voicechat] Got state of DuvanD: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[02:41:39] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree1' canceled generation at [299, -970] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2961d232
+[02:41:41] [Async Chat Thread - 7/INFO] []: [] lJuqncl: Y ESE MILAGRO?
+[02:41:46] [Async Chat Thread - 7/INFO] []: [] lJuqncl: UY LAS MAYUS
+[02:41:50] [Async Chat Thread - 7/INFO] []: [] lJuqncl: a
+[02:41:50] [Async Chat Thread - 7/INFO] []: [] DuvanD: casi me muero
+[02:41:54] [Async Chat Thread - 7/INFO] []: [] lJuqncl: que paso
+[02:41:55] [Async Chat Thread - 7/INFO] []: [] DuvanD: por el sol
+[02:41:56] [Async Chat Thread - 7/INFO] []: [] DuvanD: xd
+[02:41:58] [Async Chat Thread - 7/INFO] []: [] lJuqncl: xD
+[02:42:04] [Async Chat Thread - 7/INFO] []: [] DuvanD: e como que se murio
+[02:42:10] [Async Chat Thread - 7/INFO] []: [] lJuqncl: man se me olvido que si me destransformaba me moria
+[02:42:13] [Async Chat Thread - 7/INFO] []: [] lJuqncl: pipipi
+[02:42:16] [Async Chat Thread - 7/INFO] []: [] DuvanD: encerio pasa?
+[02:42:17] [Async Chat Thread - 7/INFO] []: [] lJuqncl: y no habia nadie
+[02:42:18] [Async Chat Thread - 7/INFO] []: [] lJuqncl: si
+[02:42:18] [Async Chat Thread - 7/INFO] []: [] DuvanD: y como o que
+[02:42:29] [Async Chat Thread - 7/INFO] []: [] lJuqncl: simplemente se muere y queda en pantalal de revivir
+[02:42:37] [Async Chat Thread - 7/INFO] []: [] DuvanD: pero pq se muere
+[02:42:41] [Async Chat Thread - 7/INFO] []: [] DuvanD: es un bug?
+[02:42:47] [Async Chat Thread - 7/INFO] []: [] lJuqncl: por destransformarse en vampiro
+[02:42:50] [Async Chat Thread - 7/INFO] []: [] lJuqncl: es bug?
+[02:42:55] [Async Chat Thread - 7/INFO] []: [] DuvanD: nose
+[02:42:59] [Async Chat Thread - 7/INFO] []: [] DuvanD: estaba murcielago
+[02:43:03] [Async Chat Thread - 7/INFO] []: [] DuvanD: y tena poca vida?
+[02:43:09] [Async Chat Thread - 7/INFO] []: [] lJuqncl: no
+[02:43:12] [Async Chat Thread - 7/INFO] []: [] DuvanD: entonces
+[02:43:15] [Async Chat Thread - 7/INFO] []: [] lJuqncl: 11 barras de vida
+[02:43:20] [Async Chat Thread - 7/INFO] []: [] lJuqncl: no creo que poquita
+[02:43:31] [Async Chat Thread - 7/INFO] []: [] DuvanD: aaaaaa
+[02:43:33] [Async Chat Thread - 7/INFO] []: [] DuvanD: ya entendi
+[02:43:36] [Async Chat Thread - 7/INFO] []: [] DuvanD: habia leido mal
+[02:43:38] [Async Chat Thread - 7/INFO] []: [] lJuqncl: ps nomas le di al altaar de purificacion y me mori
+[02:43:42] [Async Chat Thread - 7/INFO] []: [] DuvanD: pense que al destransformarse en murcielago
+[02:43:43] [Async Chat Thread - 7/INFO] []: [] lJuqncl: jdsajdajda
+[02:43:47] [Async Chat Thread - 7/INFO] []: [] lJuqncl: no no
+[02:43:48] [Async Chat Thread - 7/INFO] []: [] DuvanD: si ve yo le dije
+[02:43:50] [Async Chat Thread - 7/INFO] []: [] DuvanD: que si mataba
+[02:43:52] [Async Chat Thread - 7/INFO] []: [] lJuqncl: de vampiro
+[02:43:54] [Async Chat Thread - 7/INFO] []: [] DuvanD: el coso de purificacion
+[02:43:54] [Async Chat Thread - 7/INFO] []: [] lJuqncl: ya que
+[02:43:56] [Async Chat Thread - 7/INFO] []: [] DuvanD: si si ya entendi
+[02:44:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:44:11] [Async Chat Thread - 7/INFO] []: [] lJuqncl: oe lo de los lobos no esta verdad?
+[02:44:15] [Async Chat Thread - 7/INFO] []: [] DuvanD: ya tiene las 50
+[02:44:27] [Async Chat Thread - 7/INFO] []: [] lJuqncl: porque me aparece a 300.000km
+[02:44:29] [Async Chat Thread - 7/INFO] []: [] lJuqncl: si
+[02:44:34] [Async Chat Thread - 7/INFO] []: [] DuvanD: 300000km jaja
+[02:44:36] [Async Chat Thread - 7/INFO] []: [] lJuqncl: ya hable con el man y me dio las cords
+[02:44:37] [Async Chat Thread - 7/INFO] []: [] DuvanD: si quiere
+[02:44:40] [Async Chat Thread - 7/INFO] []: [] lJuqncl: si djasjadjad
+[02:44:41] [Async Chat Thread - 7/INFO] []: [] DuvanD: le convierto
+[02:44:43] [Async Chat Thread - 7/INFO] []: [] DuvanD: de una
+[02:44:44] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree2' canceled generation at [297, -971] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2961d232
+[02:44:48] [Async Chat Thread - 7/INFO] []: [] lJuqncl: uy
+[02:44:51] [Async Chat Thread - 7/INFO] []: [] lJuqncl: si quiere
+[02:44:52] [Async Chat Thread - 7/INFO] []: [] lJuqncl: va
+[02:44:57] [Async Chat Thread - 7/INFO] []: [] lJuqncl: no me muero no xd?
+[02:45:00] [Async Chat Thread - 7/INFO] []: [] DuvanD: no
+[02:45:03] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /were
+[02:45:04] [Async Chat Thread - 7/INFO] []: [] DuvanD: a verga
+[02:45:07] [Async Chat Thread - 7/INFO] []: [] lJuqncl: vale vale
+[02:45:09] [Async Chat Thread - 7/INFO] []: [] lJuqncl: ps si
+[02:45:09] [Async Chat Thread - 7/INFO] []: [] DuvanD: verda que me quite op
+[02:45:14] [Async Chat Thread - 7/INFO] []: [] DuvanD: y el server lo prendio pipe
+[02:45:17] [Async Chat Thread - 7/INFO] []: [] DuvanD: udtiene op
+[02:45:21] [Async Chat Thread - 7/INFO] []: [] DuvanD: yo le habia dado creo
+[02:45:23] [Async Chat Thread - 7/INFO] []: [] DuvanD: para lo de ojos
+[02:45:23] [Async Chat Thread - 7/INFO] []: [] lJuqncl: yo tengo op?
+[02:45:25] [Async Chat Thread - 7/INFO] []: [] DuvanD: de vampiro
+[02:45:33] [Async Chat Thread - 7/INFO] []: [] lJuqncl: solo lo de vampiro
+[02:45:38] [Async Chat Thread - 7/INFO] []: [] DuvanD: pere
+[02:45:40] [Async Chat Thread - 7/INFO] []: [] lJuqncl: no me pued oponer en creativo
+[02:45:42] [Async Chat Thread - 7/INFO] []: [] DuvanD: mire si le edja
+[02:45:42] [Async Chat Thread - 7/INFO] []: [] DuvanD: a
+[02:45:45] [Async Chat Thread - 7/INFO] []: [] DuvanD: bn ni modo
+[02:45:49] [Async Chat Thread - 7/INFO] []: [] DuvanD: toca que pipe entre
+[02:45:51] [Async Chat Thread - 7/INFO] []: [] DuvanD: digale que me de op
+[02:45:52] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree2' canceled generation at [296, -971] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2961d232
+[02:45:58] [Async Chat Thread - 7/INFO] []: [] DuvanD: por whatsapp
+[02:46:02] [Async Chat Thread - 7/INFO] []: [] lJuqncl: ud no tiene el whatsap?
+[02:46:02] [Server thread/TRACE] [reccomplex]: Structure 'FirTree' canceled generation at [433, -1094] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2961d232
+[02:46:06] [Async Chat Thread - 7/INFO] []: [] DuvanD: si pero
+[02:46:09] [Async Chat Thread - 7/INFO] []: [] DuvanD: me da pereza
+[02:46:09] [Async Chat Thread - 7/INFO] []: [] DuvanD: xd
+[02:46:17] [Async Chat Thread - 7/INFO] []: [] DuvanD: o bn pere le scribo a ver
+[02:46:41] [Async Chat Thread - 7/INFO] []: [] DuvanD: voy a estar en la granja de xp
+[02:46:48] [Async Chat Thread - 7/INFO] []: [] lJuqncl: ya le escribi igual
+[02:46:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Opped DuvanD
+[02:47:04] [Async Chat Thread - 7/INFO] []: [] lJuqncl: que ya
+[02:47:19] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:840) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:778) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:624) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException
+	at net.minecraft.server.MinecraftServer.func_184104_a(MinecraftServer.java:1071) ~[MinecraftServer.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147341_a(NetHandlerPlayServer.java:2477) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketTabComplete.func_148833_a(SourceFile:52) ~[kz.class:?]
+	at net.minecraft.network.play.client.CPacketTabComplete.func_148833_a(SourceFile:11) ~[kz.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:16) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[02:47:20] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:840) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:778) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:624) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException
+	at net.minecraft.server.MinecraftServer.func_184104_a(MinecraftServer.java:1071) ~[MinecraftServer.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147341_a(NetHandlerPlayServer.java:2477) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketTabComplete.func_148833_a(SourceFile:52) ~[kz.class:?]
+	at net.minecraft.network.play.client.CPacketTabComplete.func_148833_a(SourceFile:11) ~[kz.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:16) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[02:47:21] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:840) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:778) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:624) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException
+	at net.minecraft.server.MinecraftServer.func_184104_a(MinecraftServer.java:1071) ~[MinecraftServer.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147341_a(NetHandlerPlayServer.java:2477) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketTabComplete.func_148833_a(SourceFile:52) ~[kz.class:?]
+	at net.minecraft.network.play.client.CPacketTabComplete.func_148833_a(SourceFile:11) ~[kz.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:16) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[02:47:22] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:840) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:778) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:624) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException
+	at net.minecraft.server.MinecraftServer.func_184104_a(MinecraftServer.java:1071) ~[MinecraftServer.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147341_a(NetHandlerPlayServer.java:2477) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketTabComplete.func_148833_a(SourceFile:52) ~[kz.class:?]
+	at net.minecraft.network.play.client.CPacketTabComplete.func_148833_a(SourceFile:11) ~[kz.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:16) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[02:47:26] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:840) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:778) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:624) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException
+	at net.minecraft.server.MinecraftServer.func_184104_a(MinecraftServer.java:1071) ~[MinecraftServer.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147341_a(NetHandlerPlayServer.java:2477) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketTabComplete.func_148833_a(SourceFile:52) ~[kz.class:?]
+	at net.minecraft.network.play.client.CPacketTabComplete.func_148833_a(SourceFile:11) ~[kz.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:16) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[02:47:26] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:840) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:778) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:624) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException
+	at net.minecraft.server.MinecraftServer.func_184104_a(MinecraftServer.java:1071) ~[MinecraftServer.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147341_a(NetHandlerPlayServer.java:2477) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketTabComplete.func_148833_a(SourceFile:52) ~[kz.class:?]
+	at net.minecraft.network.play.client.CPacketTabComplete.func_148833_a(SourceFile:11) ~[kz.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:16) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[02:47:27] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:840) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:778) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:624) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException
+	at net.minecraft.server.MinecraftServer.func_184104_a(MinecraftServer.java:1071) ~[MinecraftServer.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147341_a(NetHandlerPlayServer.java:2477) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketTabComplete.func_148833_a(SourceFile:52) ~[kz.class:?]
+	at net.minecraft.network.play.client.CPacketTabComplete.func_148833_a(SourceFile:11) ~[kz.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:16) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[02:47:27] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:840) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:778) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:624) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException
+	at net.minecraft.server.MinecraftServer.func_184104_a(MinecraftServer.java:1071) ~[MinecraftServer.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147341_a(NetHandlerPlayServer.java:2477) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketTabComplete.func_148833_a(SourceFile:52) ~[kz.class:?]
+	at net.minecraft.network.play.client.CPacketTabComplete.func_148833_a(SourceFile:11) ~[kz.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:16) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[02:47:28] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:840) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:778) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:624) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException
+	at net.minecraft.server.MinecraftServer.func_184104_a(MinecraftServer.java:1071) ~[MinecraftServer.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147341_a(NetHandlerPlayServer.java:2477) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketTabComplete.func_148833_a(SourceFile:52) ~[kz.class:?]
+	at net.minecraft.network.play.client.CPacketTabComplete.func_148833_a(SourceFile:11) ~[kz.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:16) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[02:47:28] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /werelevel
+[02:47:29] [Async Chat Thread - 7/INFO] []: [] DuvanD: pere
+[02:47:39] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /werewolf
+[02:47:46] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /werewolf true lJuqncl
+[02:47:47] [Async Chat Thread - 7/INFO] []: [] DuvanD: mire
+[02:47:47] [Async Chat Thread - 7/INFO] []: [] DuvanD: a
