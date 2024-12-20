@@ -30075,3 +30075,36 @@
 [02:06:59] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
 [02:07:04] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
 [02:07:07] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[02:07:16] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[02:08:49] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[02:08:56] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[02:09:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:09:04] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[02:09:11] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[02:09:16] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[02:09:40] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[02:09:42] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[02:09:47] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[02:09:56] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[02:10:20] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.25 and blood value 0 for entity zawa:greathornedowl
+[02:10:25] [Server thread/DEBUG] [Scaling Health]: heart drop rate for The nightmarish Krab is 0.001
+[02:10:54] [Server thread/INFO] [Scaling Health]: Blight Zombie was killed by lJuqncl
+[02:10:54] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[02:11:50] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[02:11:51] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[02:11:55] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[02:11:57] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[02:12:00] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Chicken is 0.001
+[02:12:07] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[02:12:26] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[02:14:02] [Server thread/INFO] [Scaling Health]: Blight Skeleton was killed by lJuqncl
+[02:14:02] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[02:14:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:16:08] [Server thread/INFO] [Scaling Health]: Blight Skeleton was killed by lJuqncl
+[02:16:08] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[02:16:13] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[02:16:38] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.2 and blood value 0 for entity zawa:greenanaconda
+[02:17:08] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Hunter is 0.01
+[02:17:18] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Hunter is 0.01
+[02:17:22] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Hunter is 0.01
+[02:17:24] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Hunter is 0.01
