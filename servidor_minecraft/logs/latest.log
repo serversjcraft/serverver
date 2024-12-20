@@ -30641,3 +30641,31 @@ Caused by: java.lang.NullPointerException
 [03:17:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Title command successfully executed
 [03:17:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: skenecrackm was shot by Hunter
 [03:17:14] [Server thread/INFO] [tombstone]: The last known grave of skenecrackm is at location [name:Last Grave, x:-196, y:77, z:-691] in the dimension 0
+[03:18:58] [Server thread/INFO] [Scaling Health]: Blight Hunter has died
+[03:19:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:19:24] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree' canceled generation at [457, -1084] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2961d232
+[03:19:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: skenecrackm is bleeding...
+[03:19:38] [Server thread/INFO] [tombstone]: The death event of the player skenecrackm was cancelled by another mod
+[03:19:38] [Server thread/INFO] [tombstone]: skenecrackm has successfully been saved
+[03:19:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set score of muertes for player skenecrackm to 9
+[03:19:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Title command successfully executed
+[03:19:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Title command successfully executed
+[03:19:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Title command successfully executed
+[03:19:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Title command successfully executed
+[03:19:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Title command successfully executed
+[03:19:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Title command successfully executed
+[03:19:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: skenecrackm was shot by Hunter
+[03:19:40] [Server thread/INFO] [tombstone]: The last known grave of skenecrackm is at location [name:Last Grave, x:-170, y:78, z:-696] in the dimension 0
+[03:21:19] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Hunter is 0.01
+[03:21:45] [VoiceChatPacketProcessingThread/WARN] [voicechat]: [voicechat] Dropping voice chat packets! Your Server might be overloaded!
+[03:21:45] [VoiceChatPacketProcessingThread/WARN] [voicechat]: [voicechat] Packet queue has 62 packets
+[03:22:37] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Hunter is 0.01
+[03:22:49] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Hunter is 0.01
+[03:22:51] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[03:23:01] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[03:23:02] [Server thread/INFO] [Scaling Health]: Blight Hunter was killed by skenecrackm
+[03:23:02] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Hunter is 0.01
+[03:23:13] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[03:23:30] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[03:23:39] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Marchioness Spade is 0.001
+[03:24:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
