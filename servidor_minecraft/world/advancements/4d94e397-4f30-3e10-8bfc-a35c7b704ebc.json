@@ -1376,6 +1376,12 @@
     },
     "done": false
   },
+  "iceandfire:iceandfire/kill_hydra": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-20 17:06:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-04 21:25:10 +0000"
