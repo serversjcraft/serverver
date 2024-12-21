@@ -30154,3 +30154,516 @@
 [03:10:29] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.26 and blood value 0 for entity zawa:indianpangolin
 [03:10:50] [Server thread/TRACE] [reccomplex]: Generated structure 'ShrineSmallAir' in StructureBoundingBox{x0=184, y0=221, z0=-8269, x1=192, y1=229, z1=-8261} (0)
 [03:11:09] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 1.0 and blood value 10 for entity zawa:frigate
+[03:11:59] [Server thread/TRACE] [reccomplex]: Generated structure 'AlascaCedar' in StructureBoundingBox{x0=52, y0=65, z0=-8685, x1=60, y1=87, z1=-8677} (0)
+[03:11:59] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree1' canceled generation at [62, -8686] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:11:59] [Server thread/TRACE] [reccomplex]: Generated structure 'SpruceTreeBig' in StructureBoundingBox{x0=65, y0=66, z0=-8694, x1=75, y1=95, z1=-8684} (0)
+[03:11:59] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree' canceled generation at [70, -8686] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:11:59] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTreeBig' canceled generation at [56, -8684] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:11:59] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree1' canceled generation at [68, -8685] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:11:59] [Server thread/TRACE] [reccomplex]: Generated structure 'SpruceTree3' in StructureBoundingBox{x0=62, y0=67, z0=-8689, x1=66, y1=76, z1=-8685} (0)
+[03:11:59] [Server thread/TRACE] [reccomplex]: Structure 'AlascaCedar' canceled generation at [57, -8684] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:11:59] [Server thread/TRACE] [reccomplex]: Structure 'AlascaCedar' canceled generation at [67, -8688] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:11:59] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTreeBig' canceled generation at [70, -8684] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:11:59] [Server thread/TRACE] [reccomplex]: Structure 'AlascaCedar' canceled generation at [69, -8688] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:11:59] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree' canceled generation at [62, -8682] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:11:59] [Server thread/TRACE] [reccomplex]: Generated structure 'SpruceTree3' in StructureBoundingBox{x0=58, y0=67, z0=-8689, x1=62, y1=76, z1=-8685} (0)
+[03:11:59] [Server thread/TRACE] [reccomplex]: Structure 'AlascaCedar' canceled generation at [71, -8690] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:11:59] [Server thread/TRACE] [reccomplex]: Structure 'LodgepolePine' canceled generation at [63, -8685] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:11:59] [Server thread/TRACE] [reccomplex]: Structure 'AlascaCedar' canceled generation at [71, -8691] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:11:59] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree1' canceled generation at [61, -8685] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:11:59] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree2' canceled generation at [66, -8690] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:11:59] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTreeBig' canceled generation at [50, -8682] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:11:59] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTreeBig' canceled generation at [51, -8681] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:11:59] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTreeBig' canceled generation at [42, -8685] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:11:59] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree2' canceled generation at [53, -8686] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:11:59] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree' canceled generation at [42, -8685] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:11:59] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree3' canceled generation at [48, -8685] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:11:59] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree3' canceled generation at [45, -8687] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:11:59] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTreeBig' canceled generation at [42, -8687] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:11:59] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree1' canceled generation at [41, -8689] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:11:59] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree1' canceled generation at [44, -8695] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:11:59] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTreeBig' canceled generation at [47, -8696] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:11:59] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree3' canceled generation at [47, -8695] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:11:59] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree2' canceled generation at [41, -8687] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:11:59] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree' canceled generation at [46, -8687] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:11:59] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree1' canceled generation at [51, -8682] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:11:59] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree2' canceled generation at [52, -8696] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:11:59] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree2' canceled generation at [50, -8691] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:11:59] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree' canceled generation at [48, -8695] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:11:59] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree3' canceled generation at [53, -8684] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:11:59] [Server thread/TRACE] [reccomplex]: Structure 'LodgepolePine' canceled generation at [42, -8688] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:11:59] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree2' canceled generation at [52, -8695] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:11:59] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree' canceled generation at [45, -8681] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:11:59] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree1' canceled generation at [46, -8696] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:11:59] [Server thread/TRACE] [reccomplex]: Structure 'AlascaCedar' canceled generation at [44, -8696] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:11:59] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree3' canceled generation at [52, -8683] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:12:00] [Server thread/TRACE] [reccomplex]: Generated structure 'SpruceTree1' in StructureBoundingBox{x0=72, y0=68, z0=-8706, x1=78, y1=87, z1=-8700} (0)
+[03:12:00] [Server thread/TRACE] [reccomplex]: Structure 'LodgepolePine' canceled generation at [73, -8702] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:12:00] [Server thread/TRACE] [reccomplex]: Generated structure 'SpruceTree2' in StructureBoundingBox{x0=71, y0=68, z0=-8701, x1=75, y1=81, z1=-8695} (0)
+[03:12:00] [Server thread/TRACE] [reccomplex]: Generated structure 'AlascaCedar' in StructureBoundingBox{x0=79, y0=66, z0=-8712, x1=87, y1=88, z1=-8704} (0)
+[03:12:00] [Server thread/TRACE] [reccomplex]: Structure 'AlascaCedar' canceled generation at [80, -8711] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:12:00] [Server thread/TRACE] [reccomplex]: Generated structure 'AlascaCedar' in StructureBoundingBox{x0=81, y0=66, z0=-8701, x1=89, y1=88, z1=-8693} (0)
+[03:12:00] [Server thread/TRACE] [reccomplex]: Generated structure 'SpruceTree' in StructureBoundingBox{x0=63, y0=68, z0=-8714, x1=67, y1=80, z1=-8710} (0)
+[03:12:00] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTreeBig' canceled generation at [71, -8703] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:12:00] [Server thread/TRACE] [reccomplex]: Generated structure 'SpruceTree' in StructureBoundingBox{x0=64, y0=68, z0=-8708, x1=68, y1=80, z1=-8704} (0)
+[03:12:00] [Server thread/TRACE] [reccomplex]: Generated structure 'SpruceTree' in StructureBoundingBox{x0=57, y0=68, z0=-8704, x1=61, y1=80, z1=-8700} (0)
+[03:12:00] [Server thread/TRACE] [reccomplex]: Structure 'AlascaCedar' canceled generation at [68, -8706] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:12:00] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree3' canceled generation at [67, -8706] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:12:00] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree1' canceled generation at [68, -8706] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:12:00] [Server thread/TRACE] [reccomplex]: Generated structure 'SpruceTree1' in StructureBoundingBox{x0=53, y0=68, z0=-8703, x1=59, y1=87, z1=-8697} (0)
+[03:12:00] [Server thread/TRACE] [reccomplex]: Generated structure 'SpruceTree2' in StructureBoundingBox{x0=67, y0=68, z0=-8711, x1=73, y1=81, z1=-8707} (0)
+[03:12:00] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree' canceled generation at [56, -8698] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:12:00] [Server thread/TRACE] [reccomplex]: Structure 'AlascaCedar' canceled generation at [62, -8701] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:12:00] [Server thread/TRACE] [reccomplex]: Generated structure 'SpruceTree3' in StructureBoundingBox{x0=65, y0=68, z0=-8712, x1=69, y1=77, z1=-8708} (0)
+[03:12:00] [Server thread/TRACE] [reccomplex]: Generated structure 'AlascaCedar' in StructureBoundingBox{x0=41, y0=68, z0=-8713, x1=49, y1=90, z1=-8705} (0)
+[03:12:00] [Server thread/TRACE] [reccomplex]: Generated structure 'LodgepolePine' in StructureBoundingBox{x0=49, y0=68, z0=-8713, x1=59, y1=90, z1=-8703} (0)
+[03:12:00] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTreeBig' canceled generation at [53, -8709] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:12:00] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree3' canceled generation at [41, -8697] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:12:00] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree2' canceled generation at [44, -8701] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:12:00] [Server thread/TRACE] [reccomplex]: Structure 'AlascaCedar' canceled generation at [48, -8712] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:12:00] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree2' canceled generation at [45, -8711] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:12:00] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree3' canceled generation at [52, -8708] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:12:00] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree' canceled generation at [42, -8701] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:12:00] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree3' canceled generation at [43, -8698] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:12:00] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree1' canceled generation at [50, -8699] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:12:00] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTreeBig' canceled generation at [51, -8697] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:12:00] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTreeBig' canceled generation at [50, -8708] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:12:00] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree2' canceled generation at [55, -8697] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:12:00] [Server thread/TRACE] [reccomplex]: Generated structure 'LodgepolePine' in StructureBoundingBox{x0=37, y0=67, z0=-8708, x1=47, y1=89, z1=-8698} (0)
+[03:12:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: skenecrackm is bleeding...
+[03:12:04] [Server thread/INFO] [tombstone]: The death event of the player skenecrackm was cancelled by another mod
+[03:12:04] [Server thread/INFO] [tombstone]: skenecrackm has successfully been saved
+[03:12:28] [Server thread/TRACE] [reccomplex]: Generated structure 'BlazeSpawnerCrystal' in StructureBoundingBox{x0=18, y0=24, z0=-8560, x1=24, y1=31, z1=-8554} (0)
+[03:12:28] [Server thread/TRACE] [reccomplex]: StoneBoulder failed to spawn at [21, -8706] (incompatible biome edge)
+[03:12:29] [Server thread/TRACE] [reccomplex]: Generated structure 'SpruceTree' in StructureBoundingBox{x0=66, y0=68, z0=-8718, x1=70, y1=80, z1=-8714} (0)
+[03:12:29] [Server thread/TRACE] [reccomplex]: Structure 'AlascaCedar' canceled generation at [58, -8718] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:12:29] [Server thread/TRACE] [reccomplex]: Structure 'AlascaCedar' canceled generation at [56, -8721] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:12:29] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree' canceled generation at [62, -8722] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:12:29] [Server thread/TRACE] [reccomplex]: Structure 'LodgepolePine' canceled generation at [69, -8713] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:12:29] [Server thread/TRACE] [reccomplex]: Structure 'AlascaCedar' canceled generation at [69, -8719] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:12:29] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree3' canceled generation at [69, -8716] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:12:29] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTreeBig' canceled generation at [71, -8717] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:12:29] [Server thread/TRACE] [reccomplex]: Generated structure 'SpruceTree1' in StructureBoundingBox{x0=56, y0=68, z0=-8717, x1=62, y1=87, z1=-8711} (0)
+[03:12:29] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree2' canceled generation at [60, -8714] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:12:29] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTreeBig' canceled generation at [63, -8724] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:12:29] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree1' canceled generation at [56, -8722] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:12:29] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree' canceled generation at [61, -8723] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:12:29] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree2' canceled generation at [65, -8721] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:12:29] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTreeBig' canceled generation at [68, -8728] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:12:29] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTreeBig' canceled generation at [61, -8726] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:12:29] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree2' canceled generation at [62, -8721] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:12:29] [Server thread/TRACE] [reccomplex]: Structure 'AlascaCedar' canceled generation at [64, -8718] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:12:29] [Server thread/TRACE] [reccomplex]: Generated structure 'SpruceTree3' in StructureBoundingBox{x0=64, y0=67, z0=-8725, x1=68, y1=76, z1=-8721} (0)
+[03:12:32] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.13 and blood value 0 for entity zawa:echidna
+[03:12:45] [Server thread/TRACE] [reccomplex]: Generated structure 'UndergroundCultChamber' in StructureBoundingBox{x0=119, y0=16, z0=-8856, x1=151, y1=36, z1=-8814} (0)
+[03:12:47] [Server thread/TRACE] [reccomplex]: StonePlantMound3 failed to spawn at [-48, -8756] (incompatible biome edge)
+[03:13:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:14:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: skenecrackm has made the advancement [Sea of Monsters]
+[03:14:09] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Sea Serpent is 0.001
+[03:14:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: skenecrackm is bleeding...
+[03:14:41] [Server thread/INFO] [tombstone]: The death event of the player skenecrackm was cancelled by another mod
+[03:14:41] [Server thread/INFO] [tombstone]: skenecrackm has successfully been saved
+[03:14:41] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: skenecrackm lost connection: Cannot interact with self!
+[03:14:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set score of muertes for player skenecrackm to 9
+[03:14:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Title command successfully executed
+[03:14:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Title command successfully executed
+[03:14:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Title command successfully executed
+[03:14:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: skenecrackm drowned whilst trying to escape Sea Serpent
+[03:14:41] [Server thread/INFO] [tombstone]: The last known grave of skenecrackm is at location [name:Last Grave, x:101, y:63, z:-8723] in the dimension 0
+[03:14:41] [Server thread/DEBUG] [voicechat]: [voicechat] Removing state of skenecrackm
+[03:14:41] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 96aa5d1a-35a1-3973-b483-597cb6e73744 does not have a secret
+[03:14:41] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client skenecrackm
+[03:14:41] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 96aa5d1a-35a1-3973-b483-597cb6e73744 does not have a secret
+[03:14:41] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 96aa5d1a-35a1-3973-b483-597cb6e73744 does not have a secret
+[03:14:41] [Server thread/INFO] []: [-] skenecrackm
+[03:14:41] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 96aa5d1a-35a1-3973-b483-597cb6e73744 does not have a secret
+[03:14:41] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 96aa5d1a-35a1-3973-b483-597cb6e73744 does not have a secret
+[03:14:41] [Server thread/WARN] [Mohist]: handle Disconnection() called twice
+[03:14:41] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 96aa5d1a-35a1-3973-b483-597cb6e73744 does not have a secret
+[03:14:48] [User Authenticator #2/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player skenecrackm is 96aa5d1a-35a1-3973-b483-597cb6e73744
+[03:14:48] [Server thread/TRACE] [FML]: Handshake channel activating
+[03:14:48] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[03:14:48] [Server thread/DEBUG] [FML]:   Next: HELLO
+[03:14:48] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[03:14:48] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:71 mods->FMLHandshakeServerState$2:HELLO
+[03:14:48] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 71 mods : wolfarmor@3.8.1+alpha.1,treechop@0.14.6,mowziesmobs@1.5.8,extendedrenderer@v1.0,netherportalfix@5.3.17,trashslot@8.4.10,customnpcitems@1.0.0,vampirism_integrations@vampirism_integrations,zawa@1.12.2-2.1.3,mca@6.1.0,creativecoredummy@1.0.0,configmod@v1.0,jei@4.26.2,custommainmenu@2.0.9.1,radixcore@1.12.x-2.2.1,ivtoolkit@1.3.3-1.12,neat@1.4-17,waystones@4.1.0,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,badmobs@1.1.40,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,iceandfire@1.9.1,tlauncher_custom_cape_skin@1.4,fpsreducer@mc1.12.2-1.20,teamlapen-lib@1.6.2,forge@14.23.5.2860,malisisdoors@1.12.2-7.3.0,konkrete@1.6.1,chococraft@3.1.415.0,infernalmobs@1.7.6,minecraft@1.12.2,stonemask@1.0.0,malisiscore@1.12.2-6.5.1-SNAPSHOT,voicechat@1.12.2-2.5.26,biomesoplenty@7.0.1.2445,getittogetherdrops@1.0.2,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,reccomplex@1.4.8.6,rustic@1.1.7,fairylights@2.1.10,howlingmoon@0.9,spartanshields@1.5.5,xaerominimap@24.6.1,collective@3.0,fastbench@1.7.4,securitycraft@v1.9.11,libraryex@1.2.2,toughasnails@3.1.0.141,FML@8.0.99.99,tombstone@4.7.3,customnpcs@1.12,coroutil@1.12.1-1.2.37,srparasites@1.8.2,cfm@6.5.0,aiimprovements@0.0.1.3,connectedglass@1.1.4,vampirism@1.6.2,xaerominimap_core@1.12.2-1.0,bookworm@1.12.2-2.5.2.1,msic@1.0,codechickenlib@3.2.3.358,scalinghealth@1.3.37,soundfilters@0.12.1_for_1.12,netherex@2.2.5,playerrevive@1.0,mobends@1.2.1
+[03:14:48] [Netty Epoll Server IO #3/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist] modCLIENT
+[03:14:48] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: WAITINGCACK
+[03:14:49] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[03:14:49] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: COMPLETE
+[03:14:49] [Netty Epoll Server IO #3/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[03:14:50] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[03:14:50] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: DONE
+[03:14:50] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[03:14:50] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[03:14:50] [Server thread/INFO] []: [+] skenecrackm
+[03:14:50] [Server thread/DEBUG] [vampirism]: [EventHandler]Sending configuration to client (EntityPlayerMP['skenecrackm'/5493, uuid='96aa5d1a-35a1-3973-b483-597cb6e73744', l='world', x=101.39, y=60.10, z=-8722.80, cx=6, cd=-546, tl=2588789, v=true, d=false](skenecrackm at 101.38790521600926,60.10000004517413,-8722.795862724704))
+[03:14:50] [Server thread/DEBUG] [voicechat]: [voicechat] Setting default state of skenecrackm: {disabled=false, disconnected=true, uuid=96aa5d1a-35a1-3973-b483-597cb6e73744, name=skenecrackm, group=null}
+[03:14:50] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: skenecrackm[/127.224.155.220:34091] logged in with entity id 5493 at ([world]101.38790521600926, 60.10000004517413, -8722.795862724704)
+[03:14:50] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[03:14:54] [Netty Epoll Server IO #3/INFO] [voicechat]: [voicechat] Received secret request of skenecrackm (18)
+[03:14:54] [Netty Epoll Server IO #3/DEBUG] [voicechat]: [voicechat] Sending initial states to skenecrackm
+[03:14:54] [Netty Epoll Server IO #3/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with skenecrackm
+[03:14:54] [Netty Epoll Server IO #3/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with skenecrackm
+[03:14:54] [Netty Epoll Server IO #3/INFO] [voicechat]: [voicechat] Sent secret to skenecrackm
+[03:14:55] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 96aa5d1a-35a1-3973-b483-597cb6e73744
+[03:14:56] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.15 and blood value 0 for entity zawa:tasmaniandevil
+[03:14:56] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 96aa5d1a-35a1-3973-b483-597cb6e73744
+[03:14:56] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of skenecrackm to connected: {disabled=false, disconnected=false, uuid=96aa5d1a-35a1-3973-b483-597cb6e73744, name=skenecrackm, group=null}
+[03:14:56] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player skenecrackm (96aa5d1a-35a1-3973-b483-597cb6e73744) successfully connected to voice chat
+[03:14:57] [Netty Epoll Server IO #3/DEBUG] [voicechat]: [voicechat] Got state of skenecrackm: {disabled=false, disconnected=false, uuid=96aa5d1a-35a1-3973-b483-597cb6e73744, name=skenecrackm, group=null}
+[03:16:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: skenecrackm is bleeding...
+[03:16:25] [Server thread/INFO] [tombstone]: The death event of the player skenecrackm was cancelled by another mod
+[03:16:25] [Server thread/INFO] [tombstone]: skenecrackm has successfully been saved
+[03:16:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: skenecrackm is bleeding...
+[03:16:40] [Server thread/INFO] [tombstone]: The death event of the player skenecrackm was cancelled by another mod
+[03:16:40] [Server thread/INFO] [tombstone]: skenecrackm has successfully been saved
+[03:17:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: skenecrackm is bleeding...
+[03:17:13] [Server thread/INFO] [tombstone]: The death event of the player skenecrackm was cancelled by another mod
+[03:17:13] [Server thread/INFO] [tombstone]: skenecrackm has successfully been saved
+[03:18:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:19:44] [Server thread/TRACE] [reccomplex]: Generated structure 'ShrineSmallFire' in StructureBoundingBox{x0=104, y0=23, z0=-8931, x1=114, y1=30, z1=-8921} (0)
+[03:19:44] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree5' canceled generation at [-62, -8934] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:44] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree5' canceled generation at [-64, -8921] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:44] [Server thread/TRACE] [reccomplex]: Structure 'OakTree' canceled generation at [-66, -8930] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:44] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree2' canceled generation at [-61, -8935] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:44] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree1' canceled generation at [-62, -8921] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:44] [Server thread/TRACE] [reccomplex]: Structure 'DeadTreeLarge1' canceled generation at [-58, -8934] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:44] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree3' canceled generation at [-67, -8926] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:44] [Server thread/TRACE] [reccomplex]: Structure 'DeadTreeLarge1' canceled generation at [-64, -8921] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:44] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree4' canceled generation at [-70, -8927] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:44] [Server thread/TRACE] [reccomplex]: Generated structure 'WhiteWillowLarge' in StructureBoundingBox{x0=-77, y0=62, z0=-8943, x1=-63, y1=83, z1=-8928} (0)
+[03:19:44] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree5' canceled generation at [-59, -8922] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:44] [Server thread/TRACE] [reccomplex]: Structure 'OakTreeBig' canceled generation at [-70, -8931] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:44] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree' canceled generation at [-69, -8931] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:44] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree1' canceled generation at [-58, -8931] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:44] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree6' canceled generation at [-67, -8936] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:44] [Server thread/TRACE] [reccomplex]: Structure 'OakTree' canceled generation at [-61, -8928] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:44] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree2' canceled generation at [-68, -8932] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:44] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree6' canceled generation at [-57, -8924] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:44] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree5' canceled generation at [-49, -8951] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:44] [Server thread/TRACE] [reccomplex]: Structure 'GenericTreeSmall' canceled generation at [-52, -8951] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:44] [Server thread/TRACE] [reccomplex]: Structure 'QuakingAspen' canceled generation at [-50, -8937] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:44] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree2' canceled generation at [-41, -8945] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:44] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig' canceled generation at [-41, -8937] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:44] [Server thread/TRACE] [reccomplex]: Structure 'QuakingAspen' canceled generation at [-44, -8944] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree2' canceled generation at [-50, -8938] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree3' canceled generation at [-54, -8944] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree1' canceled generation at [-42, -8945] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree2' canceled generation at [-46, -8945] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree2' canceled generation at [-51, -8947] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'OakTreeBig' canceled generation at [-41, -8938] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree' canceled generation at [-45, -8948] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree3' canceled generation at [-41, -8944] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree5' canceled generation at [-52, -8946] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree3' canceled generation at [-44, -8949] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'OakTreeBig' canceled generation at [-45, -8941] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Generated structure 'GenericTree' in StructureBoundingBox{x0=-59, y0=62, z0=-8952, x1=-54, y1=72, z1=-8946} (0)
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'OakTreeBig' canceled generation at [-52, -8943] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree5' canceled generation at [-56, -8947] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'OakTree' canceled generation at [-53, -8948] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTreeSmall' canceled generation at [-54, -8948] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree1' canceled generation at [-55, -8938] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree3' canceled generation at [-46, -8952] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree3' canceled generation at [-43, -8941] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'Basswood' canceled generation at [-50, -8944] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'DeadTreeLarge1' canceled generation at [-53, -8945] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree5' canceled generation at [-49, -8938] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree4' canceled generation at [-54, -8939] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'DeadTreeLarge2' canceled generation at [-44, -8949] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree1' canceled generation at [-49, -8952] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig' canceled generation at [-56, -8937] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree5' canceled generation at [-45, -8950] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree2' canceled generation at [-42, -8945] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'OakTree' canceled generation at [-48, -8939] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree2' canceled generation at [-41, -8938] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree5' canceled generation at [-45, -8937] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree1' canceled generation at [-44, -8943] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'Basswood' canceled generation at [-50, -8951] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree' canceled generation at [-51, -8937] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree4' canceled generation at [-49, -8938] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree1' canceled generation at [-50, -8943] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree1' canceled generation at [-45, -8951] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree1' canceled generation at [-57, -8941] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'OakTree' canceled generation at [-71, -8943] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig' canceled generation at [-58, -8938] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree' canceled generation at [-70, -8944] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'WhiteWillowLarge' canceled generation at [-64, -8941] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Generated structure 'BirchTree1' in StructureBoundingBox{x0=-61, y0=62, z0=-8942, x1=-55, y1=77, z1=-8937} (0)
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig1' canceled generation at [-71, -8946] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree2' canceled generation at [-59, -8938] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree' canceled generation at [-58, -8946] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree6' canceled generation at [-66, -8938] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree3' canceled generation at [-61, -8951] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree2' canceled generation at [-57, -8952] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree4' canceled generation at [-58, -8940] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree4' canceled generation at [-60, -8944] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree' canceled generation at [-59, -8946] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTreeSmall' canceled generation at [-59, -8951] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree' canceled generation at [-62, -8938] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'WhiteWillowLarge' canceled generation at [-69, -8952] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'OakTreeBig' canceled generation at [-69, -8951] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree2' canceled generation at [-65, -8947] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTreeHuge' canceled generation at [-58, -8946] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree5' canceled generation at [-72, -8942] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree6' canceled generation at [-64, -8952] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree6' canceled generation at [-64, -8942] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree1' canceled generation at [-61, -8947] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree3' canceled generation at [-67, -8944] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTreeSmall' canceled generation at [-67, -8937] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree' canceled generation at [-59, -8945] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree3' canceled generation at [-67, -8944] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'OakTreeHuge' canceled generation at [-57, -8949] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'WhiteWillowLarge' canceled generation at [-71, -8947] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree' canceled generation at [-57, -8938] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree4' canceled generation at [-57, -8944] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree6' canceled generation at [-64, -8938] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree5' canceled generation at [-67, -8952] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTreeSmall' canceled generation at [-69, -8950] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'OakTreeHuge' canceled generation at [-59, -8935] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree1' canceled generation at [-62, -8924] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree5' canceled generation at [-67, -8933] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'OakTree' canceled generation at [-71, -8930] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree1' canceled generation at [-69, -8933] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'WhiteWillowLarge' canceled generation at [-63, -8932] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree' canceled generation at [-57, -8931] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree1' canceled generation at [-58, -8935] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'OakTreeHuge' canceled generation at [-69, -8922] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig' canceled generation at [-66, -8932] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree4' canceled generation at [-69, -8927] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTreeSmall' canceled generation at [-71, -8934] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Generated structure 'GenericTreeSmall' in StructureBoundingBox{x0=-65, y0=63, z0=-8932, x1=-61, y1=70, z1=-8927} (0)
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree5' canceled generation at [-70, -8936] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree2' canceled generation at [-70, -8928] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree4' canceled generation at [-67, -8923] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'OakTree' canceled generation at [-63, -8933] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree3' canceled generation at [-57, -8921] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig' canceled generation at [-69, -8923] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'OakTree' canceled generation at [-57, -8931] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree3' canceled generation at [-57, -8927] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree6' canceled generation at [-67, -8933] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:45] [Server thread/TRACE] [reccomplex]: Structure 'GenericTreeSmall' canceled generation at [-65, -8929] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:46] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree2' canceled generation at [-77, -8952] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:46] [Server thread/TRACE] [reccomplex]: Structure 'OakTreeBig' canceled generation at [-75, -8945] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:46] [Server thread/TRACE] [reccomplex]: Generated structure 'BirchTree1' in StructureBoundingBox{x0=-89, y0=63, z0=-8952, x1=-84, y1=78, z1=-8946} (0)
+[03:19:46] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree2' canceled generation at [-84, -8943] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:46] [Server thread/TRACE] [reccomplex]: Generated structure 'GenericTree4' in StructureBoundingBox{x0=-80, y0=62, z0=-8945, x1=-73, y1=75, z1=-8938} (0)
+[03:19:46] [Server thread/TRACE] [reccomplex]: Structure 'OakTree' canceled generation at [-80, -8939] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:46] [Server thread/TRACE] [reccomplex]: Generated structure 'GenericTree6' in StructureBoundingBox{x0=-82, y0=62, z0=-8950, x1=-76, y1=75, z1=-8944} (0)
+[03:19:46] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree3' canceled generation at [-81, -8948] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:46] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree1' canceled generation at [-79, -8943] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:46] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree6' canceled generation at [-80, -8942] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:46] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree3' canceled generation at [-84, -8941] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:46] [Server thread/TRACE] [reccomplex]: Structure 'Basswood' canceled generation at [-85, -8938] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:46] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree4' canceled generation at [-74, -8950] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:46] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree' canceled generation at [-80, -8942] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:46] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig' canceled generation at [-88, -8938] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:46] [Server thread/TRACE] [reccomplex]: Structure 'GenericTreeSmall' canceled generation at [-78, -8945] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:46] [Server thread/TRACE] [reccomplex]: Generated structure 'GenericTree5' in StructureBoundingBox{x0=-78, y0=62, z0=-8942, x1=-71, y1=74, z1=-8935} (0)
+[03:19:46] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree5' canceled generation at [-82, -8937] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:46] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree4' canceled generation at [-75, -8939] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:46] [Server thread/TRACE] [reccomplex]: Structure 'OakTree' canceled generation at [-87, -8945] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:46] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree5' canceled generation at [-79, -8942] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:46] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree4' canceled generation at [-83, -8952] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:46] [Server thread/TRACE] [reccomplex]: Structure 'Basswood' canceled generation at [-76, -8938] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:46] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree' canceled generation at [-83, -8942] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:46] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree3' canceled generation at [-84, -8943] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:46] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree6' canceled generation at [-84, -8952] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:46] [Server thread/TRACE] [reccomplex]: Structure 'OakTree' canceled generation at [-74, -8951] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:46] [Server thread/TRACE] [reccomplex]: Structure 'OakTreeHuge' canceled generation at [-85, -8943] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:46] [Server thread/TRACE] [reccomplex]: Structure 'QuakingAspen' canceled generation at [-76, -8944] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:46] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree6' canceled generation at [-79, -8950] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:46] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree1' canceled generation at [-75, -8939] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:46] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree6' canceled generation at [-75, -8947] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:46] [Server thread/TRACE] [reccomplex]: Structure 'GenericTreeSmall' canceled generation at [-85, -8941] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:46] [Server thread/TRACE] [reccomplex]: Structure 'OakTree' canceled generation at [-83, -8949] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:46] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree4' canceled generation at [-83, -8938] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:46] [Server thread/TRACE] [reccomplex]: Structure 'OakTreeHuge' canceled generation at [-73, -8948] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:46] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree1' canceled generation at [-84, -8948] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:48] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree' canceled generation at [-46, -8966] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:48] [Server thread/TRACE] [reccomplex]: Generated structure 'BirchTree' in StructureBoundingBox{x0=-59, y0=62, z0=-8966, x1=-52, y1=76, z1=-8959} (0)
+[03:19:48] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree5' canceled generation at [-56, -8963] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:48] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree1' canceled generation at [-52, -8966] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:48] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree6' canceled generation at [-53, -8956] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:48] [Server thread/TRACE] [reccomplex]: Structure 'OakTree' canceled generation at [-51, -8956] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:48] [Server thread/TRACE] [reccomplex]: Structure 'OakTree' canceled generation at [-41, -8956] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:48] [Server thread/TRACE] [reccomplex]: Structure 'OakTree' canceled generation at [-52, -8962] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:48] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig' canceled generation at [-48, -8954] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:48] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree' canceled generation at [-44, -8958] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:48] [Server thread/TRACE] [reccomplex]: Structure 'DeadTreeLarge1' canceled generation at [-56, -8967] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:48] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree4' canceled generation at [-54, -8960] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:48] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree1' canceled generation at [-50, -8957] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:48] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree' canceled generation at [-55, -8953] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:48] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree3' canceled generation at [-43, -8953] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:48] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree4' canceled generation at [-56, -8963] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:48] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree6' canceled generation at [-43, -8963] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:48] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig' canceled generation at [-49, -8964] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:48] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree5' canceled generation at [-55, -8957] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:48] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree' canceled generation at [-41, -8953] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:48] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig1' canceled generation at [-46, -8960] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:48] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree6' canceled generation at [-56, -8964] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:48] [Server thread/TRACE] [reccomplex]: Structure 'OakTree' canceled generation at [-55, -8959] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:48] [Server thread/TRACE] [reccomplex]: Structure 'OakTree' canceled generation at [-52, -8959] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:48] [Server thread/TRACE] [reccomplex]: Structure 'DeadTreeLarge' canceled generation at [-43, -8961] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:48] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree5' canceled generation at [-45, -8954] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:48] [Server thread/TRACE] [reccomplex]: Structure 'OakTree' canceled generation at [-51, -8958] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:48] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree4' canceled generation at [-51, -8959] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:48] [Server thread/TRACE] [reccomplex]: Structure 'OakTreeBig' canceled generation at [-46, -8968] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:48] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree4' canceled generation at [-56, -8960] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:48] [Server thread/TRACE] [reccomplex]: Generated structure 'BirchTreeBig' in StructureBoundingBox{x0=-59, y0=62, z0=-8957, x1=-51, y1=78, z1=-8949} (0)
+[03:19:49] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree4' canceled generation at [-62, -8966] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:49] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree6' canceled generation at [-66, -8955] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:49] [Server thread/TRACE] [reccomplex]: Structure 'GenericTreeSmall' canceled generation at [-58, -8955] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:49] [Server thread/TRACE] [reccomplex]: Structure 'GenericTreeHuge' canceled generation at [-62, -8964] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:49] [Server thread/TRACE] [reccomplex]: Structure 'Basswood' canceled generation at [-57, -8965] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:49] [Server thread/TRACE] [reccomplex]: Structure 'GenericTreeSmall' canceled generation at [-71, -8956] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:49] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree2' canceled generation at [-63, -8962] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:49] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree1' canceled generation at [-59, -8964] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:49] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree' canceled generation at [-62, -8962] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:49] [Server thread/TRACE] [reccomplex]: Structure 'Basswood' canceled generation at [-68, -8965] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:49] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree' canceled generation at [-62, -8955] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:49] [Server thread/TRACE] [reccomplex]: Structure 'OakTreeHuge' canceled generation at [-63, -8968] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:49] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree1' canceled generation at [-63, -8956] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:49] [Server thread/TRACE] [reccomplex]: Generated structure 'BirchTreeBig' in StructureBoundingBox{x0=-68, y0=62, z0=-8964, x1=-60, y1=78, z1=-8956} (0)
+[03:19:49] [Server thread/TRACE] [reccomplex]: Structure 'OakTreeHuge' canceled generation at [-72, -8965] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:49] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree4' canceled generation at [-71, -8966] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:49] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree5' canceled generation at [-62, -8955] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:49] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree2' canceled generation at [-57, -8958] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:49] [Server thread/TRACE] [reccomplex]: Structure 'WhiteWillowLarge' canceled generation at [-64, -8955] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:49] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree1' canceled generation at [-61, -8963] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:49] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree6' canceled generation at [-66, -8953] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:49] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree6' canceled generation at [-61, -8954] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:49] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree4' canceled generation at [-71, -8957] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:49] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree2' canceled generation at [-71, -8958] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:49] [Server thread/TRACE] [reccomplex]: Structure 'OakTreeBig' canceled generation at [-71, -8964] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:49] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree1' canceled generation at [-66, -8959] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:49] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree1' canceled generation at [-57, -8954] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:49] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree4' canceled generation at [-71, -8955] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:19:49] [Server thread/TRACE] [reccomplex]: Structure 'OakTree' canceled generation at [-71, -8960] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:04] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree' canceled generation at [242, -9094] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:04] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree' canceled generation at [240, -9086] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:04] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig' canceled generation at [241, -9094] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:04] [Server thread/TRACE] [reccomplex]: Structure 'QuakingAspen' canceled generation at [233, -9085] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:04] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig1' canceled generation at [243, -9086] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:11] [Server thread/TRACE] [reccomplex]: Structure 'StonePlantMound2' canceled generation at [241, -9137] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:16] [Server thread/TRACE] [reccomplex]: Generated structure 'BirchTreeBig' in StructureBoundingBox{x0=250, y0=63, z0=-9047, x1=258, y1=79, z1=-9039} (0)
+[03:20:16] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig' canceled generation at [258, -9061] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:16] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig' canceled generation at [251, -9054] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:16] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig' canceled generation at [252, -9049] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:16] [Server thread/TRACE] [reccomplex]: Generated structure 'BirchTree1' in StructureBoundingBox{x0=257, y0=63, z0=-9059, x1=263, y1=78, z1=-9054} (0)
+[03:20:16] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig1' canceled generation at [256, -9055] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:16] [Server thread/TRACE] [reccomplex]: Structure 'QuakingAspen' canceled generation at [258, -9052] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:16] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree' canceled generation at [263, -9053] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:16] [Server thread/TRACE] [reccomplex]: Generated structure 'QuakingAspen' in StructureBoundingBox{x0=252, y0=63, z0=-9059, x1=258, y1=83, z1=-9053} (0)
+[03:20:16] [Server thread/TRACE] [reccomplex]: Generated structure 'BirchTreeBig' in StructureBoundingBox{x0=249, y0=65, z0=-9072, x1=257, y1=81, z1=-9064} (0)
+[03:20:16] [Server thread/TRACE] [reccomplex]: Generated structure 'BirchTree1' in StructureBoundingBox{x0=256, y0=64, z0=-9079, x1=261, y1=79, z1=-9073} (0)
+[03:20:16] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneBoulder' in StructureBoundingBox{x0=253, y0=62, z0=-9111, x1=262, y1=76, z1=-9102} (0)
+[03:20:16] [Server thread/TRACE] [reccomplex]: Generated structure 'BirchTree1' in StructureBoundingBox{x0=246, y0=65, z0=-9110, x1=251, y1=80, z1=-9104} (0)
+[03:20:16] [Server thread/TRACE] [reccomplex]: Generated structure 'BirchTree1' in StructureBoundingBox{x0=246, y0=63, z0=-9130, x1=252, y1=78, z1=-9125} (0)
+[03:20:16] [Server thread/TRACE] [reccomplex]: Generated structure 'BirchTree1' in StructureBoundingBox{x0=257, y0=69, z0=-9129, x1=263, y1=84, z1=-9124} (0)
+[03:20:16] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig' canceled generation at [257, -9126] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:16] [Server thread/TRACE] [reccomplex]: Generated structure 'BirchTree1' in StructureBoundingBox{x0=253, y0=67, z0=-9126, x1=258, y1=82, z1=-9120} (0)
+[03:20:16] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig' canceled generation at [249, -9122] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:16] [Server thread/TRACE] [reccomplex]: Structure 'QuakingAspen' canceled generation at [252, -9116] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:16] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree' canceled generation at [252, -9121] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:16] [Server thread/TRACE] [reccomplex]: Generated structure 'BirchTree1' in StructureBoundingBox{x0=250, y0=68, z0=-9117, x1=256, y1=83, z1=-9112} (0)
+[03:20:16] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree1' canceled generation at [262, -9129] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:16] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree' canceled generation at [259, -9130] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:16] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree1' canceled generation at [250, -9132] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:16] [Server thread/TRACE] [reccomplex]: Generated structure 'BirchTree1' in StructureBoundingBox{x0=254, y0=67, z0=-9137, x1=259, y1=82, z1=-9131} (0)
+[03:20:16] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig' canceled generation at [251, -9130] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:16] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree1' canceled generation at [256, -9132] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:16] [Server thread/TRACE] [reccomplex]: Generated structure 'BirchTree1' in StructureBoundingBox{x0=259, y0=69, z0=-9137, x1=265, y1=84, z1=-9132} (0)
+[03:20:16] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree' canceled generation at [250, -9143] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:16] [Server thread/TRACE] [reccomplex]: Structure 'QuakingAspen' canceled generation at [249, -9141] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:16] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig' canceled generation at [249, -9140] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:16] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig' canceled generation at [250, -9144] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:16] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree' canceled generation at [254, -9137] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:16] [Server thread/TRACE] [reccomplex]: Structure 'QuakingAspen' canceled generation at [256, -9132] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:16] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree1' canceled generation at [251, -9140] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:16] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree' canceled generation at [249, -9129] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:16] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree1' canceled generation at [257, -9129] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:16] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree' canceled generation at [254, -9140] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:19] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig1' canceled generation at [87, -9207] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:19] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree1' canceled generation at [81, -9205] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:19] [Server thread/TRACE] [reccomplex]: Generated structure 'BirchTree1' in StructureBoundingBox{x0=70, y0=66, z0=-9201, x1=76, y1=81, z1=-9196} (0)
+[03:20:19] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree1' canceled generation at [81, -9197] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:19] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig' canceled generation at [83, -9201] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:19] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig' canceled generation at [75, -9200] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:19] [Server thread/TRACE] [reccomplex]: Generated structure 'BirchTree1' in StructureBoundingBox{x0=75, y0=64, z0=-9201, x1=80, y1=79, z1=-9195} (0)
+[03:20:19] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneLeafMound' in StructureBoundingBox{x0=52, y0=64, z0=-9212, x1=59, y1=67, z1=-9203} (0)
+[03:20:19] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig' canceled generation at [68, -9203] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:19] [Server thread/TRACE] [reccomplex]: Generated structure 'BirchTree1' in StructureBoundingBox{x0=64, y0=68, z0=-9209, x1=69, y1=83, z1=-9203} (0)
+[03:20:19] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig' canceled generation at [67, -9202] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:19] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree' canceled generation at [58, -9195] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:19] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree' canceled generation at [66, -9201] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:19] [Server thread/TRACE] [reccomplex]: Generated structure 'BirchTree1' in StructureBoundingBox{x0=66, y0=67, z0=-9205, x1=71, y1=82, z1=-9199} (0)
+[03:20:19] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree1' canceled generation at [66, -9199] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:19] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree' canceled generation at [71, -9196] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:19] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree1' canceled generation at [58, -9194] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:19] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree' canceled generation at [71, -9204] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:19] [Server thread/TRACE] [reccomplex]: Generated structure 'BirchTree1' in StructureBoundingBox{x0=57, y0=65, z0=-9200, x1=62, y1=80, z1=-9194} (0)
+[03:20:19] [Server thread/TRACE] [reccomplex]: Generated structure 'QuakingAspen' in StructureBoundingBox{x0=61, y0=65, z0=-9201, x1=67, y1=85, z1=-9195} (0)
+[03:20:23] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree1' canceled generation at [252, -9234] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:23] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig1' canceled generation at [248, -9225] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:23] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig' canceled generation at [248, -9240] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:23] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig' canceled generation at [248, -9235] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:23] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig' canceled generation at [250, -9239] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:25] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree' canceled generation at [263, -9255] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:25] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig1' canceled generation at [248, -9248] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:25] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree1' canceled generation at [251, -9254] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:25] [Server thread/TRACE] [reccomplex]: Generated structure 'QuakingAspen' in StructureBoundingBox{x0=254, y0=67, z0=-9249, x1=260, y1=87, z1=-9243} (0)
+[03:20:29] [Server thread/TRACE] [reccomplex]: Structure 'StonePlantMound3' canceled generation at [-27, -9286] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:31] [Server thread/TRACE] [reccomplex]: Generated structure 'BirchTree1' in StructureBoundingBox{x0=271, y0=68, z0=-9145, x1=277, y1=83, z1=-9140} (0)
+[03:20:31] [Server thread/TRACE] [reccomplex]: Generated structure 'QuakingAspen' in StructureBoundingBox{x0=266, y0=70, z0=-9141, x1=272, y1=90, z1=-9135} (0)
+[03:20:31] [Server thread/TRACE] [reccomplex]: Structure 'QuakingAspen' canceled generation at [266, -9137] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:31] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree' canceled generation at [271, -9131] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:31] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig' canceled generation at [272, -9138] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:31] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree1' canceled generation at [266, -9137] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:31] [Server thread/TRACE] [reccomplex]: Generated structure 'QuakingAspen' in StructureBoundingBox{x0=262, y0=70, z0=-9141, x1=268, y1=90, z1=-9135} (0)
+[03:20:31] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneLeafMound' in StructureBoundingBox{x0=261, y0=69, z0=-9119, x1=268, y1=72, z1=-9110} (0)
+[03:20:31] [Server thread/TRACE] [reccomplex]: Generated structure 'BirchTree1' in StructureBoundingBox{x0=262, y0=71, z0=-9131, x1=268, y1=86, z1=-9126} (0)
+[03:20:31] [Server thread/TRACE] [reccomplex]: Generated structure 'QuakingAspen' in StructureBoundingBox{x0=268, y0=68, z0=-9118, x1=274, y1=88, z1=-9112} (0)
+[03:20:31] [Server thread/TRACE] [reccomplex]: Structure 'QuakingAspen' canceled generation at [270, -9120] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:31] [Server thread/TRACE] [reccomplex]: Generated structure 'BirchTree1' in StructureBoundingBox{x0=273, y0=67, z0=-9126, x1=279, y1=82, z1=-9121} (0)
+[03:20:31] [Server thread/TRACE] [reccomplex]: Generated structure 'BirchTree1' in StructureBoundingBox{x0=276, y0=66, z0=-9114, x1=282, y1=81, z1=-9109} (0)
+[03:20:31] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree1' canceled generation at [278, -9106] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:31] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree1' canceled generation at [272, -9111] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:31] [Server thread/TRACE] [reccomplex]: Structure 'QuakingAspen' canceled generation at [277, -9103] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:31] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig' canceled generation at [267, -9097] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:31] [Server thread/TRACE] [reccomplex]: Generated structure 'BirchTree1' in StructureBoundingBox{x0=266, y0=67, z0=-9112, x1=271, y1=82, z1=-9106} (0)
+[03:20:31] [Server thread/TRACE] [reccomplex]: Generated structure 'BirchTree1' in StructureBoundingBox{x0=271, y0=66, z0=-9111, x1=277, y1=81, z1=-9106} (0)
+[03:20:31] [Server thread/TRACE] [reccomplex]: Generated structure 'BirchTree1' in StructureBoundingBox{x0=264, y0=66, z0=-9106, x1=270, y1=81, z1=-9101} (0)
+[03:20:31] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree1' canceled generation at [278, -9100] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:31] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree1' canceled generation at [267, -9100] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:31] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig' canceled generation at [275, -9102] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:31] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree' canceled generation at [265, -9109] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:31] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree1' canceled generation at [272, -9112] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:31] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree1' canceled generation at [270, -9076] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:31] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree' canceled generation at [264, -9073] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:31] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig' canceled generation at [267, -9078] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:31] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig' canceled generation at [277, -9077] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:31] [Server thread/TRACE] [reccomplex]: Generated structure 'BirchTree1' in StructureBoundingBox{x0=267, y0=63, z0=-9072, x1=272, y1=78, z1=-9066} (0)
+[03:20:31] [Server thread/TRACE] [reccomplex]: Structure 'QuakingAspen' canceled generation at [275, -9066] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:31] [Server thread/TRACE] [reccomplex]: Structure 'QuakingAspen' canceled generation at [264, -9066] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:31] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree' canceled generation at [272, -9066] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:31] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree1' canceled generation at [275, -9068] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:31] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree1' canceled generation at [277, -9077] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:31] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree1' canceled generation at [278, -9074] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:31] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree1' canceled generation at [273, -9074] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:31] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree1' canceled generation at [275, -9072] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:31] [Server thread/TRACE] [reccomplex]: Generated structure 'BirchTree1' in StructureBoundingBox{x0=261, y0=65, z0=-9071, x1=266, y1=80, z1=-9065} (0)
+[03:20:31] [Server thread/TRACE] [reccomplex]: Generated structure 'BirchTree1' in StructureBoundingBox{x0=262, y0=66, z0=-9227, x1=267, y1=81, z1=-9221} (0)
+[03:20:31] [Server thread/TRACE] [reccomplex]: Generated structure 'BirchTree1' in StructureBoundingBox{x0=273, y0=68, z0=-9241, x1=279, y1=83, z1=-9236} (0)
+[03:20:31] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree' canceled generation at [278, -9229] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:20:31] [Server thread/TRACE] [reccomplex]: Generated structure 'BirchTree1' in StructureBoundingBox{x0=268, y0=69, z0=-9228, x1=273, y1=84, z1=-9222} (0)
+[03:21:00] [Server thread/TRACE] [reccomplex]: Generated structure 'ShrineSmallWater' in StructureBoundingBox{x0=-58, y0=45, z0=-9401, x1=-50, y1=51, z1=-9393} (0)
+[03:21:43] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig1' canceled generation at [-89, -9280] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:21:43] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig' canceled generation at [-102, -9284] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:21:43] [Server thread/TRACE] [reccomplex]: Generated structure 'QuakingAspen' in StructureBoundingBox{x0=-100, y0=66, z0=-9280, x1=-94, y1=86, z1=-9274} (0)
+[03:21:43] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig' canceled generation at [-95, -9285] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:21:43] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree' canceled generation at [-101, -9285] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:21:43] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree1' canceled generation at [-104, -9288] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:21:43] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree1' canceled generation at [-89, -9273] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:21:43] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig' canceled generation at [-90, -9279] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2b97e59c
+[03:21:57] [Server thread/TRACE] [reccomplex]: Generated structure 'StonePlantMound1' in StructureBoundingBox{x0=-192, y0=67, z0=-9264, x1=-186, y1=71, z1=-9258} (0)
