@@ -30255,3 +30255,5 @@
 [00:37:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [00:37:28] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Setting group of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
 [00:38:34] [Server thread/TRACE] [reccomplex]: Structure 'OakTree' canceled generation at [296, -971] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@15bae0af
+[00:40:31] [Thread-3/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[00:40:31] [Thread-3/INFO] [Mohist]: Disabling PowerRanks v1.9.6
