@@ -12,14 +12,6 @@
 
 config-version: 11
 settings:
-  bungeecord: false
-  attribute:
-    maxHealth:
-      max: 2048.0
-    movementSpeed:
-      max: 2048.0
-    attackDamage:
-      max: 2048.0
   timeout-time: 90
   restart-on-crash: true
   restart-script: ./start.sh
@@ -30,6 +22,14 @@ settings:
   moved-wrongly-threshold: 0.0625
   moved-too-quickly-multiplier: 10.0
   item-dirty-ticks: 20
+  attribute:
+    maxHealth:
+      max: 2048.0
+    movementSpeed:
+      max: 2048.0
+    attackDamage:
+      max: 2048.0
+  bungeecord: false
   save-user-cache-on-stop-only: false
   sample-count: 12
   player-shuffle: 0
@@ -103,10 +103,9 @@ world-settings:
     max-growth-height:
       cactus: 3
       reeds: 3
-    nerf-spawner-mobs: false
-    hanging-tick-frequency: 100
     wither-spawn-sound-radius: 0
     view-distance: 10
+    hanging-tick-frequency: 100
     enable-zombie-pigmen-portal-spawns: true
     zombie-aggressive-towards-villager: true
     merge-radius:
@@ -114,6 +113,7 @@ world-settings:
       item: 2.5
     item-despawn-rate: 6000
     arrow-despawn-rate: 1200
+    nerf-spawner-mobs: false
     entity-tracking-range:
       players: 48
       animals: 48
