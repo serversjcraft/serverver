@@ -13,6 +13,14 @@
 config-version: 11
 settings:
   bungeecord: false
+  netty-threads: 4
+  attribute:
+    maxHealth:
+      max: 2048.0
+    movementSpeed:
+      max: 2048.0
+    attackDamage:
+      max: 2048.0
   late-bind: false
   filter-creative-items: true
   int-cache-limit: 1024
@@ -22,19 +30,12 @@ settings:
   timeout-time: 90
   restart-on-crash: true
   restart-script: ./start.sh
-  netty-threads: 4
-  attribute:
-    maxHealth:
-      max: 2048.0
-    movementSpeed:
-      max: 2048.0
-    attackDamage:
-      max: 2048.0
   save-user-cache-on-stop-only: false
   sample-count: 12
   player-shuffle: 0
   user-cache-size: 1000
 commands:
+  log: true
   spam-exclusions:
   - /skill
   replace-commands:
@@ -42,7 +43,6 @@ commands:
   - summon
   - testforblock
   - tellraw
-  log: true
   tab-complete: 0
   silent-commandblock-console: false
 messages:
@@ -75,11 +75,11 @@ world-settings:
       misc: 16
       water: 16
       tick-inactive-villagers: true
-    mob-spawn-range: 4
     ticks-per:
       hopper-transfer: 8
       hopper-check: 1
     hopper-amount: 1
+    mob-spawn-range: 4
     random-light-updates: false
     dragon-death-sound-radius: 0
     seed-village: 10387312
@@ -103,17 +103,17 @@ world-settings:
     max-growth-height:
       cactus: 3
       reeds: 3
+    zombie-aggressive-towards-villager: true
     wither-spawn-sound-radius: 0
     view-distance: 10
-    enable-zombie-pigmen-portal-spawns: true
     hanging-tick-frequency: 100
+    enable-zombie-pigmen-portal-spawns: true
+    nerf-spawner-mobs: false
     merge-radius:
       exp: 3.0
       item: 2.5
     item-despawn-rate: 6000
     arrow-despawn-rate: 1200
-    zombie-aggressive-towards-villager: true
-    nerf-spawner-mobs: false
     entity-tracking-range:
       players: 48
       animals: 48
