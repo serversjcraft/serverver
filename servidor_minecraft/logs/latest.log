@@ -30224,3 +30224,34 @@
 [00:29:49] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
 [00:29:51] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
 [00:29:55] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.25 and blood value 0 for entity zawa:greathornedowl
+[00:30:11] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.2 and blood value 0 for entity zawa:greenanaconda
+[00:30:16] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.05 and blood value 0 for entity zawa:meerkat
+[00:31:04] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[00:32:13] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[00:32:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:32:27] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[00:32:33] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[00:32:36] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[00:32:37] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[00:32:41] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[00:32:42] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[00:32:44] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[00:32:45] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[00:32:55] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[00:32:55] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[00:32:57] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[00:33:00] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[00:33:15] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[00:33:42] [Server thread/TRACE] [reccomplex]: Generated structure 'ShrineSmallWater' in StructureBoundingBox{x0=-80, y0=40, z0=-7938, x1=-72, y1=46, z1=-7930} (0)
+[00:33:53] [Server thread/TRACE] [reccomplex]: StonePlantBoulder failed to spawn at [148, -7997] (incompatible biome edge)
+[00:34:03] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.25 and blood value 0 for entity zawa:redpanda
+[00:34:05] [Server thread/TRACE] [reccomplex]: Generated structure 'DinosaurSkeleton' in StructureBoundingBox{x0=237, y0=56, z0=-7864, x1=246, y1=66, z1=-7818} (0)
+[00:34:15] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: skenecrackm lost connection: Disconnected
+[00:34:15] [Server thread/DEBUG] [voicechat]: [voicechat] Removing state of skenecrackm
+[00:34:15] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client skenecrackm
+[00:34:15] [Server thread/INFO] []: [-] skenecrackm
+[00:34:15] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 96aa5d1a-35a1-3973-b483-597cb6e73744 does not have a secret
+[00:35:38] [Server thread/TRACE] [reccomplex]: Structure 'OakTree' canceled generation at [297, -971] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@15bae0af
+[00:37:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:37:28] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Setting group of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[00:38:34] [Server thread/TRACE] [reccomplex]: Structure 'OakTree' canceled generation at [296, -971] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@15bae0af
